@@ -1,0 +1,1418 @@
+,record_id,month,day,year,plot_id,species_id,sex,hindfoot_length,weight,genus,species,taxa,plot_type
+26,4667,7,8,1981,2,NL,F,30.0,130.0,Neotoma,albigula,Rodent,Control
+27,4859,10,1,1981,2,NL,M,34.0,208.0,Neotoma,albigula,Rodent,Control
+28,5048,11,23,1981,2,NL,M,34.0,192.0,Neotoma,albigula,Rodent,Control
+325,3738,1,12,1981,2,DM,M,35.0,47.0,Dipodomys,merriami,Rodent,Control
+326,3741,1,12,1981,2,DM,M,37.0,50.0,Dipodomys,merriami,Rodent,Control
+327,3781,1,12,1981,2,DM,M,35.0,54.0,Dipodomys,merriami,Rodent,Control
+328,3790,1,12,1981,2,DM,M,35.0,41.0,Dipodomys,merriami,Rodent,Control
+329,3867,2,1,1981,2,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Control
+330,3877,2,1,1981,2,DM,M,37.0,50.0,Dipodomys,merriami,Rodent,Control
+331,3889,2,1,1981,2,DM,M,36.0,48.0,Dipodomys,merriami,Rodent,Control
+332,3897,2,1,1981,2,DM,M,37.0,49.0,Dipodomys,merriami,Rodent,Control
+333,3899,2,1,1981,2,DM,M,36.0,44.0,Dipodomys,merriami,Rodent,Control
+334,3901,2,1,1981,2,DM,M,37.0,39.0,Dipodomys,merriami,Rodent,Control
+335,3947,3,9,1981,2,DM,M,35.0,51.0,Dipodomys,merriami,Rodent,Control
+336,3960,3,9,1981,2,DM,M,37.0,49.0,Dipodomys,merriami,Rodent,Control
+337,3979,3,9,1981,2,DM,F,34.0,51.0,Dipodomys,merriami,Rodent,Control
+338,3998,3,9,1981,2,DM,F,36.0,30.0,Dipodomys,merriami,Rodent,Control
+339,4004,3,9,1981,2,DM,M,36.0,40.0,Dipodomys,merriami,Rodent,Control
+340,4198,4,6,1981,2,DM,M,,50.0,Dipodomys,merriami,Rodent,Control
+341,4238,4,6,1981,2,DM,M,,46.0,Dipodomys,merriami,Rodent,Control
+342,4243,4,6,1981,2,DM,F,,44.0,Dipodomys,merriami,Rodent,Control
+343,4251,4,6,1981,2,DM,F,,47.0,Dipodomys,merriami,Rodent,Control
+344,4268,4,6,1981,2,DM,F,,50.0,Dipodomys,merriami,Rodent,Control
+345,4271,4,6,1981,2,DM,F,,45.0,Dipodomys,merriami,Rodent,Control
+346,4276,4,6,1981,2,DM,M,,46.0,Dipodomys,merriami,Rodent,Control
+347,4306,4,6,1981,2,DM,M,,41.0,Dipodomys,merriami,Rodent,Control
+348,4317,4,6,1981,2,DM,M,,51.0,Dipodomys,merriami,Rodent,Control
+349,4320,4,6,1981,2,DM,F,,46.0,Dipodomys,merriami,Rodent,Control
+350,4341,4,6,1981,2,DM,M,,43.0,Dipodomys,merriami,Rodent,Control
+351,4347,4,6,1981,2,DM,F,,34.0,Dipodomys,merriami,Rodent,Control
+352,4452,5,4,1981,2,DM,M,36.0,48.0,Dipodomys,merriami,Rodent,Control
+353,4482,5,4,1981,2,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Control
+354,4520,6,4,1981,2,DM,M,34.0,38.0,Dipodomys,merriami,Rodent,Control
+355,4548,6,4,1981,2,DM,M,36.0,44.0,Dipodomys,merriami,Rodent,Control
+356,4685,7,8,1981,2,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Control
+357,4693,7,30,1981,2,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Control
+358,4714,7,30,1981,2,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Control
+359,4952,10,26,1981,2,DM,F,37.0,38.0,Dipodomys,merriami,Rodent,Control
+360,5044,11,23,1981,2,DM,F,36.0,36.0,Dipodomys,merriami,Rodent,Control
+361,5063,11,23,1981,2,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Control
+793,4283,4,6,1981,2,PF,M,,5.0,Perognathus,flavus,Rodent,Control
+813,5071,11,23,1981,2,PE,M,19.0,19.0,Peromyscus,eremicus,Rodent,Control
+814,5074,11,23,1981,2,PE,M,21.0,19.0,Peromyscus,eremicus,Rodent,Control
+815,5076,11,23,1981,2,PE,F,21.0,19.0,Peromyscus,eremicus,Rodent,Control
+970,3778,1,12,1981,2,DS,F,51.0,150.0,Dipodomys,spectabilis,Rodent,Control
+971,3869,2,1,1981,2,DS,F,51.0,136.0,Dipodomys,spectabilis,Rodent,Control
+972,3875,2,1,1981,2,DS,M,48.0,130.0,Dipodomys,spectabilis,Rodent,Control
+973,3958,3,9,1981,2,DS,M,55.0,148.0,Dipodomys,spectabilis,Rodent,Control
+974,3973,3,9,1981,2,DS,F,53.0,159.0,Dipodomys,spectabilis,Rodent,Control
+975,3976,3,9,1981,2,DS,M,51.0,89.0,Dipodomys,spectabilis,Rodent,Control
+976,3977,3,9,1981,2,DS,M,48.0,75.0,Dipodomys,spectabilis,Rodent,Control
+977,3980,3,9,1981,2,DS,M,48.0,77.0,Dipodomys,spectabilis,Rodent,Control
+978,4190,4,6,1981,2,DS,F,,131.0,Dipodomys,spectabilis,Rodent,Control
+979,4203,4,6,1981,2,DS,M,,147.0,Dipodomys,spectabilis,Rodent,Control
+980,4216,4,6,1981,2,DS,M,,86.0,Dipodomys,spectabilis,Rodent,Control
+981,4221,4,6,1981,2,DS,M,,95.0,Dipodomys,spectabilis,Rodent,Control
+982,4225,4,6,1981,2,DS,M,,145.0,Dipodomys,spectabilis,Rodent,Control
+983,4230,4,6,1981,2,DS,F,,130.0,Dipodomys,spectabilis,Rodent,Control
+984,4233,4,6,1981,2,DS,M,,81.0,Dipodomys,spectabilis,Rodent,Control
+985,4248,4,6,1981,2,DS,M,,137.0,Dipodomys,spectabilis,Rodent,Control
+986,4299,4,6,1981,2,DS,,,140.0,Dipodomys,spectabilis,Rodent,Control
+987,4334,4,6,1981,2,DS,M,,125.0,Dipodomys,spectabilis,Rodent,Control
+988,4447,5,4,1981,2,DS,M,51.0,74.0,Dipodomys,spectabilis,Rodent,Control
+989,4449,5,4,1981,2,DS,F,57.0,136.0,Dipodomys,spectabilis,Rodent,Control
+990,4514,6,4,1981,2,DS,F,55.0,140.0,Dipodomys,spectabilis,Rodent,Control
+991,4517,6,4,1981,2,DS,M,52.0,78.0,Dipodomys,spectabilis,Rodent,Control
+992,4648,7,8,1981,2,DS,F,53.0,144.0,Dipodomys,spectabilis,Rodent,Control
+993,4858,10,1,1981,2,DS,F,52.0,151.0,Dipodomys,spectabilis,Rodent,Control
+994,4948,10,26,1981,2,DS,F,54.0,172.0,Dipodomys,spectabilis,Rodent,Control
+995,5013,11,23,1981,2,DS,M,49.0,144.0,Dipodomys,spectabilis,Rodent,Control
+996,5027,11,23,1981,2,DS,F,51.0,142.0,Dipodomys,spectabilis,Rodent,Control
+1310,3740,1,12,1981,2,OT,M,20.0,27.0,Onychomys,torridus,Rodent,Control
+1311,4315,4,6,1981,2,OT,F,,25.0,Onychomys,torridus,Rodent,Control
+1312,4956,10,26,1981,2,OT,M,22.0,22.0,Onychomys,torridus,Rodent,Control
+1313,4958,10,26,1981,2,OT,F,21.0,22.0,Onychomys,torridus,Rodent,Control
+1314,5018,11,23,1981,2,OT,M,21.0,23.0,Onychomys,torridus,Rodent,Control
+1315,5020,11,23,1981,2,OT,F,20.0,22.0,Onychomys,torridus,Rodent,Control
+1487,3739,1,12,1981,2,DO,M,34.0,45.0,Dipodomys,ordii,Rodent,Control
+1488,3797,1,12,1981,2,DO,F,37.0,43.0,Dipodomys,ordii,Rodent,Control
+1489,3885,2,1,1981,2,DO,M,35.0,47.0,Dipodomys,ordii,Rodent,Control
+1490,3902,2,1,1981,2,DO,F,37.0,49.0,Dipodomys,ordii,Rodent,Control
+1491,4193,4,6,1981,2,DO,F,,46.0,Dipodomys,ordii,Rodent,Control
+1492,4257,4,6,1981,2,DO,M,,51.0,Dipodomys,ordii,Rodent,Control
+1493,4287,4,6,1981,2,DO,F,,54.0,Dipodomys,ordii,Rodent,Control
+1494,4318,4,6,1981,2,DO,M,,46.0,Dipodomys,ordii,Rodent,Control
+1822,3799,1,12,1981,2,OL,M,20.0,39.0,Onychomys,leucogaster,Rodent,Control
+1823,3804,1,12,1981,2,OL,F,20.0,34.0,Onychomys,leucogaster,Rodent,Control
+1824,3893,2,1,1981,2,OL,F,20.0,34.0,Onychomys,leucogaster,Rodent,Control
+1825,4311,4,6,1981,2,OL,F,,38.0,Onychomys,leucogaster,Rodent,Control
+2203,4940,10,26,1981,3,NL,M,34.0,195.0,Neotoma,albigula,Rodent,Long-term Krat Exclosure
+2204,5036,11,23,1981,3,NL,F,,157.0,Neotoma,albigula,Rodent,Long-term Krat Exclosure
+2300,3744,1,12,1981,3,DM,F,36.0,46.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+2301,3745,1,12,1981,3,DM,F,37.0,40.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+2302,3961,3,9,1981,3,DM,F,39.0,58.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+2303,3967,3,9,1981,3,DM,M,35.0,45.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+2425,3982,3,9,1981,3,PF,F,16.0,6.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2426,4002,3,9,1981,3,PF,F,16.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2427,4024,4,5,1981,3,PF,M,,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2428,4052,4,5,1981,3,PF,F,15.0,4.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2429,4175,4,5,1981,3,PF,F,,8.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2430,4455,5,4,1981,3,PF,M,15.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2431,4686,7,8,1981,3,PF,M,16.0,6.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2432,5021,11,23,1981,3,PF,F,16.0,6.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+2526,3986,3,9,1981,3,PE,M,19.0,18.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+2602,3742,1,12,1981,3,DS,F,51.0,136.0,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+2603,3743,1,12,1981,3,DS,M,48.0,121.0,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+2604,3952,3,9,1981,3,DS,M,51.0,151.0,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+2605,3964,3,9,1981,3,DS,F,50.0,124.0,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+2606,3970,3,9,1981,3,DS,F,54.0,128.0,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+3030,3974,3,9,1981,3,OT,F,20.0,28.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+3031,3975,3,9,1981,3,OT,M,20.0,27.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+3342,5031,11,23,1981,3,RM,F,17.0,9.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+3343,5061,11,23,1981,3,RM,F,16.0,9.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+4002,4649,7,8,1981,15,NL,M,,158.0,Neotoma,albigula,Rodent,Long-term Krat Exclosure
+4003,4692,7,30,1981,15,NL,M,33.0,174.0,Neotoma,albigula,Rodent,Long-term Krat Exclosure
+4085,4421,5,4,1981,15,DM,F,35.0,38.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+4086,4425,5,4,1981,15,DM,F,34.0,47.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+4087,4427,5,4,1981,15,DM,M,36.0,45.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+4088,4436,5,4,1981,15,DM,M,35.0,46.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+4089,4443,5,4,1981,15,DM,M,37.0,47.0,Dipodomys,merriami,Rodent,Long-term Krat Exclosure
+4136,3783,1,12,1981,15,PF,F,15.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4137,3866,2,1,1981,15,PF,F,15.0,8.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4138,4000,3,9,1981,15,PF,F,16.0,6.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4139,4202,4,6,1981,15,PF,M,,8.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4140,4474,5,4,1981,15,PF,M,14.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4141,4527,6,4,1981,15,PF,M,15.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4142,4660,7,8,1981,15,PF,M,15.0,8.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4143,4799,8,31,1981,15,PF,M,16.0,9.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+4257,4848,9,30,1981,15,PE,M,20.0,16.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+4258,4971,11,22,1981,15,PE,M,19.0,10.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+4259,4985,11,22,1981,15,PE,M,22.0,19.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+4260,5080,12,30,1981,15,PE,F,23.0,23.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+4261,5085,12,30,1981,15,PE,F,22.0,16.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+4262,5090,12,30,1981,15,PE,F,23.0,18.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+4327,4433,5,4,1981,15,DS,F,49.0,108.0,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+4328,4439,5,4,1981,15,DS,F,51.0,96.0,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+4620,4651,7,8,1981,15,SS,,,,Spermophilus,spilosoma,Rodent,Long-term Krat Exclosure
+4627,3787,1,12,1981,15,OL,F,20.0,32.0,Onychomys,leucogaster,Rodent,Long-term Krat Exclosure
+4628,4512,6,4,1981,15,OL,M,21.0,30.0,Onychomys,leucogaster,Rodent,Long-term Krat Exclosure
+4629,4697,7,30,1981,15,OL,M,21.0,39.0,Onychomys,leucogaster,Rodent,Long-term Krat Exclosure
+4649,5101,12,30,1981,15,RM,M,16.0,9.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+4650,5103,12,30,1981,15,RM,F,18.0,12.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+4762,4477,5,4,1981,15,SA,,,,Sylvilagus,audubonii,Rabbit,Long-term Krat Exclosure
+4767,4489,6,4,1981,15,PM,M,21.0,20.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+4768,4540,6,4,1981,15,PM,F,22.0,20.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+4921,4707,7,30,1981,15,CB,,,,Campylorhynchus,brunneicapillus,Bird,Long-term Krat Exclosure
+5033,4604,7,7,1981,17,NL,F,31.0,126.0,Neotoma,albigula,Rodent,Control
+5218,3721,1,11,1981,17,DM,F,37.0,48.0,Dipodomys,merriami,Rodent,Control
+5219,4027,4,5,1981,17,DM,F,,46.0,Dipodomys,merriami,Rodent,Control
+5220,4047,4,5,1981,17,DM,M,,44.0,Dipodomys,merriami,Rodent,Control
+5221,4055,4,5,1981,17,DM,M,,43.0,Dipodomys,merriami,Rodent,Control
+5222,4071,4,5,1981,17,DM,,34.0,24.0,Dipodomys,merriami,Rodent,Control
+5223,4169,4,5,1981,17,DM,F,,40.0,Dipodomys,merriami,Rodent,Control
+5224,4174,4,5,1981,17,DM,M,,49.0,Dipodomys,merriami,Rodent,Control
+5225,4372,5,3,1981,17,DM,F,37.0,45.0,Dipodomys,merriami,Rodent,Control
+5226,4556,6,5,1981,17,DM,F,34.0,26.0,Dipodomys,merriami,Rodent,Control
+5227,4603,7,7,1981,17,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Control
+5228,4613,7,7,1981,17,DM,F,34.0,47.0,Dipodomys,merriami,Rodent,Control
+5229,4616,7,7,1981,17,DM,F,34.0,31.0,Dipodomys,merriami,Rodent,Control
+5230,4725,7,31,1981,17,DM,F,35.0,32.0,Dipodomys,merriami,Rodent,Control
+5231,4765,8,30,1981,17,DM,F,37.0,47.0,Dipodomys,merriami,Rodent,Control
+5232,4969,11,22,1981,17,DM,M,41.0,,Dipodomys,merriami,Rodent,Control
+6069,4042,4,5,1981,17,PE,F,,30.0,Peromyscus,eremicus,Rodent,Control
+6070,4132,4,5,1981,17,PE,M,,26.0,Peromyscus,eremicus,Rodent,Control
+6177,3712,1,11,1981,17,DS,F,47.0,116.0,Dipodomys,spectabilis,Rodent,Control
+6178,3720,1,11,1981,17,DS,M,50.0,148.0,Dipodomys,spectabilis,Rodent,Control
+6179,3821,1,31,1981,17,DS,F,50.0,143.0,Dipodomys,spectabilis,Rodent,Control
+6180,3836,1,31,1981,17,DS,M,49.0,147.0,Dipodomys,spectabilis,Rodent,Control
+6181,3837,1,31,1981,17,DS,F,50.0,137.0,Dipodomys,spectabilis,Rodent,Control
+6182,3911,3,8,1981,17,DS,M,51.0,142.0,Dipodomys,spectabilis,Rodent,Control
+6183,3914,3,8,1981,17,DS,F,53.0,138.0,Dipodomys,spectabilis,Rodent,Control
+6184,3934,3,8,1981,17,DS,F,51.0,141.0,Dipodomys,spectabilis,Rodent,Control
+6185,4034,4,5,1981,17,DS,F,,147.0,Dipodomys,spectabilis,Rodent,Control
+6186,4084,4,5,1981,17,DS,M,,129.0,Dipodomys,spectabilis,Rodent,Control
+6187,4090,4,5,1981,17,DS,M,,120.0,Dipodomys,spectabilis,Rodent,Control
+6188,4107,4,5,1981,17,DS,F,,128.0,Dipodomys,spectabilis,Rodent,Control
+6189,4150,4,5,1981,17,DS,F,,122.0,Dipodomys,spectabilis,Rodent,Control
+6190,4155,4,5,1981,17,DS,M,,136.0,Dipodomys,spectabilis,Rodent,Control
+6191,4374,5,3,1981,17,DS,M,51.0,94.0,Dipodomys,spectabilis,Rodent,Control
+6192,4397,5,3,1981,17,DS,M,48.0,142.0,Dipodomys,spectabilis,Rodent,Control
+6193,4399,5,3,1981,17,DS,F,50.0,120.0,Dipodomys,spectabilis,Rodent,Control
+6194,4574,6,5,1981,17,DS,F,49.0,67.0,Dipodomys,spectabilis,Rodent,Control
+6195,4578,6,5,1981,17,DS,M,53.0,144.0,Dipodomys,spectabilis,Rodent,Control
+6196,4581,6,5,1981,17,DS,F,47.0,,Dipodomys,spectabilis,Rodent,Control
+6197,4622,7,7,1981,17,DS,M,51.0,141.0,Dipodomys,spectabilis,Rodent,Control
+6198,4627,7,7,1981,17,DS,F,48.0,89.0,Dipodomys,spectabilis,Rodent,Control
+6199,4742,7,31,1981,17,DS,M,49.0,148.0,Dipodomys,spectabilis,Rodent,Control
+6200,4762,8,30,1981,17,DS,F,49.0,117.0,Dipodomys,spectabilis,Rodent,Control
+6201,4775,8,30,1981,17,DS,,,,Dipodomys,spectabilis,Rodent,Control
+6202,4998,11,22,1981,17,DS,M,52.0,170.0,Dipodomys,spectabilis,Rodent,Control
+6203,5079,12,30,1981,17,DS,M,51.0,147.0,Dipodomys,spectabilis,Rodent,Control
+6366,3719,1,11,1981,17,OT,M,19.0,24.0,Onychomys,torridus,Rodent,Control
+6367,3729,1,11,1981,17,OT,F,19.0,28.0,Onychomys,torridus,Rodent,Control
+6368,3913,3,8,1981,17,OT,F,21.0,11.0,Onychomys,torridus,Rodent,Control
+6369,3916,3,8,1981,17,OT,M,21.0,10.0,Onychomys,torridus,Rodent,Control
+6370,3938,3,8,1981,17,OT,M,21.0,11.0,Onychomys,torridus,Rodent,Control
+6371,3941,3,8,1981,17,OT,M,21.0,11.0,Onychomys,torridus,Rodent,Control
+6372,3943,3,8,1981,17,OT,F,22.0,31.0,Onychomys,torridus,Rodent,Control
+6373,4180,4,5,1981,17,OT,F,,37.0,Onychomys,torridus,Rodent,Control
+6374,4183,4,5,1981,17,OT,M,,32.0,Onychomys,torridus,Rodent,Control
+6375,4407,5,3,1981,17,OT,F,21.0,38.0,Onychomys,torridus,Rodent,Control
+6376,4409,5,3,1981,17,OT,M,,29.0,Onychomys,torridus,Rodent,Control
+6377,4729,7,31,1981,17,OT,F,21.0,36.0,Onychomys,torridus,Rodent,Control
+6378,4849,9,30,1981,17,OT,M,23.0,30.0,Onychomys,torridus,Rodent,Control
+6379,4854,9,30,1981,17,OT,F,22.0,22.0,Onychomys,torridus,Rodent,Control
+6559,3723,1,11,1981,17,DO,F,36.0,46.0,Dipodomys,ordii,Rodent,Control
+6560,3852,1,31,1981,17,DO,F,34.0,33.0,Dipodomys,ordii,Rodent,Control
+6561,3936,3,8,1981,17,DO,F,37.0,44.0,Dipodomys,ordii,Rodent,Control
+6562,4163,4,5,1981,17,DO,F,,51.0,Dipodomys,ordii,Rodent,Control
+6563,4402,5,3,1981,17,DO,F,34.0,47.0,Dipodomys,ordii,Rodent,Control
+6564,4589,6,5,1981,17,DO,F,35.0,38.0,Dipodomys,ordii,Rodent,Control
+6565,4597,6,5,1981,17,DO,F,37.0,50.0,Dipodomys,ordii,Rodent,Control
+6566,4637,7,7,1981,17,DO,F,36.0,49.0,Dipodomys,ordii,Rodent,Control
+6567,4747,7,31,1981,17,DO,M,35.0,29.0,Dipodomys,ordii,Rodent,Control
+6568,4778,8,30,1981,17,DO,F,37.0,53.0,Dipodomys,ordii,Rodent,Control
+6569,4783,8,30,1981,17,DO,M,35.0,53.0,Dipodomys,ordii,Rodent,Control
+6570,4938,10,25,1981,17,DO,F,37.0,54.0,Dipodomys,ordii,Rodent,Control
+6783,4058,4,5,1981,17,SS,,,,Spermophilus,spilosoma,Rodent,Control
+6820,3704,1,11,1981,17,OL,F,19.0,34.0,Onychomys,leucogaster,Rodent,Control
+6821,3848,1,31,1981,17,OL,F,21.0,40.0,Onychomys,leucogaster,Rodent,Control
+6822,4021,4,5,1981,17,OL,F,,34.0,Onychomys,leucogaster,Rodent,Control
+6843,4966,11,22,1981,17,RM,M,18.0,10.0,Reithrodontomys,megalotis,Rodent,Control
+6844,5088,12,30,1981,17,RM,F,17.0,10.0,Reithrodontomys,megalotis,Rodent,Control
+6922,4370,5,3,1981,17,SA,,,,Sylvilagus,audubonii,Rabbit,Control
+6923,4785,8,30,1981,17,SA,,,,Sylvilagus,audubonii,Rabbit,Control
+7089,3785,1,12,1981,12,NL,F,33.0,199.0,Neotoma,albigula,Rodent,Control
+7090,3814,1,31,1981,12,NL,F,32.0,195.0,Neotoma,albigula,Rodent,Control
+7091,4054,4,5,1981,12,NL,F,,231.0,Neotoma,albigula,Rodent,Control
+7092,4876,10,24,1981,12,NL,M,34.0,235.0,Neotoma,albigula,Rodent,Control
+7093,4962,11,22,1981,12,NL,F,,264.0,Neotoma,albigula,Rodent,Control
+7094,5116,12,31,1981,12,NL,M,31.0,83.0,Neotoma,albigula,Rodent,Control
+7343,3768,1,12,1981,12,DM,M,35.0,49.0,Dipodomys,merriami,Rodent,Control
+7344,3769,1,12,1981,12,DM,F,34.0,32.0,Dipodomys,merriami,Rodent,Control
+7345,3770,1,12,1981,12,DM,M,37.0,50.0,Dipodomys,merriami,Rodent,Control
+7346,3771,1,12,1981,12,DM,F,37.0,47.0,Dipodomys,merriami,Rodent,Control
+7347,3792,1,12,1981,12,DM,M,37.0,50.0,Dipodomys,merriami,Rodent,Control
+7348,3796,1,12,1981,12,DM,M,36.0,61.0,Dipodomys,merriami,Rodent,Control
+7349,3806,1,12,1981,12,DM,,,,Dipodomys,merriami,Rodent,Control
+7350,3808,1,12,1981,12,DM,F,37.0,46.0,Dipodomys,merriami,Rodent,Control
+7351,3840,1,31,1981,12,DM,M,37.0,55.0,Dipodomys,merriami,Rodent,Control
+7352,3845,1,31,1981,12,DM,M,36.0,60.0,Dipodomys,merriami,Rodent,Control
+7353,3849,1,31,1981,12,DM,M,36.0,49.0,Dipodomys,merriami,Rodent,Control
+7354,3854,1,31,1981,12,DM,M,37.0,46.0,Dipodomys,merriami,Rodent,Control
+7355,3855,1,31,1981,12,DM,F,37.0,48.0,Dipodomys,merriami,Rodent,Control
+7356,3978,3,9,1981,12,DM,F,35.0,22.0,Dipodomys,merriami,Rodent,Control
+7357,3983,3,9,1981,12,DM,F,36.0,45.0,Dipodomys,merriami,Rodent,Control
+7358,3985,3,9,1981,12,DM,F,37.0,42.0,Dipodomys,merriami,Rodent,Control
+7359,3990,3,9,1981,12,DM,M,37.0,60.0,Dipodomys,merriami,Rodent,Control
+7360,4062,4,5,1981,12,DM,F,,54.0,Dipodomys,merriami,Rodent,Control
+7361,4070,4,5,1981,12,DM,M,,44.0,Dipodomys,merriami,Rodent,Control
+7362,4102,4,5,1981,12,DM,F,,47.0,Dipodomys,merriami,Rodent,Control
+7363,4105,4,5,1981,12,DM,M,,43.0,Dipodomys,merriami,Rodent,Control
+7364,4124,4,5,1981,12,DM,M,,59.0,Dipodomys,merriami,Rodent,Control
+7365,4138,4,5,1981,12,DM,F,,49.0,Dipodomys,merriami,Rodent,Control
+7366,4144,4,5,1981,12,DM,F,,42.0,Dipodomys,merriami,Rodent,Control
+7367,4145,4,5,1981,12,DM,F,,45.0,Dipodomys,merriami,Rodent,Control
+7368,4154,4,5,1981,12,DM,M,36.0,50.0,Dipodomys,merriami,Rodent,Control
+7369,4157,4,5,1981,12,DM,M,,49.0,Dipodomys,merriami,Rodent,Control
+7370,4188,4,5,1981,12,DM,M,,45.0,Dipodomys,merriami,Rodent,Control
+7371,4359,5,3,1981,12,DM,M,35.0,60.0,Dipodomys,merriami,Rodent,Control
+7372,4381,5,3,1981,12,DM,M,35.0,29.0,Dipodomys,merriami,Rodent,Control
+7373,4389,5,3,1981,12,DM,F,37.0,56.0,Dipodomys,merriami,Rodent,Control
+7374,4394,5,3,1981,12,DM,F,,,Dipodomys,merriami,Rodent,Control
+7375,4401,5,3,1981,12,DM,F,37.0,46.0,Dipodomys,merriami,Rodent,Control
+7376,4560,6,5,1981,12,DM,M,37.0,36.0,Dipodomys,merriami,Rodent,Control
+7377,4571,6,5,1981,12,DM,F,36.0,22.0,Dipodomys,merriami,Rodent,Control
+7378,4591,6,5,1981,12,DM,M,35.0,22.0,Dipodomys,merriami,Rodent,Control
+7379,4592,6,5,1981,12,DM,M,36.0,61.0,Dipodomys,merriami,Rodent,Control
+7380,4595,6,5,1981,12,DM,F,37.0,43.0,Dipodomys,merriami,Rodent,Control
+7381,4605,7,7,1981,12,DM,M,38.0,39.0,Dipodomys,merriami,Rodent,Control
+7382,4612,7,7,1981,12,DM,F,37.0,48.0,Dipodomys,merriami,Rodent,Control
+7383,4617,7,7,1981,12,DM,F,37.0,47.0,Dipodomys,merriami,Rodent,Control
+7384,4630,7,7,1981,12,DM,M,35.0,34.0,Dipodomys,merriami,Rodent,Control
+7385,4634,7,7,1981,12,DM,F,35.0,26.0,Dipodomys,merriami,Rodent,Control
+7386,4636,7,7,1981,12,DM,M,37.0,58.0,Dipodomys,merriami,Rodent,Control
+7387,4642,7,7,1981,12,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Control
+7388,4722,7,31,1981,12,DM,M,37.0,39.0,Dipodomys,merriami,Rodent,Control
+7389,4733,7,31,1981,12,DM,M,36.0,56.0,Dipodomys,merriami,Rodent,Control
+7390,4734,7,31,1981,12,DM,F,35.0,43.0,Dipodomys,merriami,Rodent,Control
+7391,4745,7,31,1981,12,DM,M,36.0,36.0,Dipodomys,merriami,Rodent,Control
+7392,4746,7,31,1981,12,DM,F,36.0,46.0,Dipodomys,merriami,Rodent,Control
+7393,4757,8,30,1981,12,DM,M,36.0,58.0,Dipodomys,merriami,Rodent,Control
+7394,4761,8,30,1981,12,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Control
+7395,4771,8,30,1981,12,DM,M,36.0,27.0,Dipodomys,merriami,Rodent,Control
+7396,4772,8,30,1981,12,DM,M,,35.0,Dipodomys,merriami,Rodent,Control
+7397,4811,9,29,1981,12,DM,M,37.0,42.0,Dipodomys,merriami,Rodent,Control
+7398,4817,9,29,1981,12,DM,F,37.0,50.0,Dipodomys,merriami,Rodent,Control
+7399,4818,9,29,1981,12,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Control
+7400,4819,9,29,1981,12,DM,M,38.0,43.0,Dipodomys,merriami,Rodent,Control
+7401,4884,10,24,1981,12,DM,M,39.0,43.0,Dipodomys,merriami,Rodent,Control
+7402,4892,10,24,1981,12,DM,M,36.0,44.0,Dipodomys,merriami,Rodent,Control
+7403,4895,10,24,1981,12,DM,F,37.0,44.0,Dipodomys,merriami,Rodent,Control
+7404,4901,10,24,1981,12,DM,F,37.0,43.0,Dipodomys,merriami,Rodent,Control
+7405,4906,10,24,1981,12,DM,M,39.0,51.0,Dipodomys,merriami,Rodent,Control
+7406,4981,11,22,1981,12,DM,M,38.0,49.0,Dipodomys,merriami,Rodent,Control
+7407,4989,11,22,1981,12,DM,M,39.0,56.0,Dipodomys,merriami,Rodent,Control
+7408,4997,11,22,1981,12,DM,F,38.0,54.0,Dipodomys,merriami,Rodent,Control
+7409,5000,11,22,1981,12,DM,M,38.0,49.0,Dipodomys,merriami,Rodent,Control
+7410,5128,12,31,1981,12,DM,M,35.0,26.0,Dipodomys,merriami,Rodent,Control
+7411,5131,12,31,1981,12,DM,M,38.0,49.0,Dipodomys,merriami,Rodent,Control
+7412,5145,12,31,1981,12,DM,M,36.0,46.0,Dipodomys,merriami,Rodent,Control
+7413,5146,12,31,1981,12,DM,F,37.0,43.0,Dipodomys,merriami,Rodent,Control
+7414,5150,12,31,1981,12,DM,M,38.0,50.0,Dipodomys,merriami,Rodent,Control
+8270,4060,4,5,1981,12,PE,M,,22.0,Peromyscus,eremicus,Rodent,Control
+8271,4567,6,5,1981,12,PE,M,21.0,21.0,Peromyscus,eremicus,Rodent,Control
+8272,4816,9,29,1981,12,PE,M,21.0,14.0,Peromyscus,eremicus,Rodent,Control
+8376,3793,1,12,1981,12,DS,M,52.0,144.0,Dipodomys,spectabilis,Rodent,Control
+8377,3820,1,31,1981,12,DS,M,51.0,132.0,Dipodomys,spectabilis,Rodent,Control
+8378,3994,3,9,1981,12,DS,M,52.0,136.0,Dipodomys,spectabilis,Rodent,Control
+8379,4015,4,5,1981,12,DS,F,,153.0,Dipodomys,spectabilis,Rodent,Control
+8380,4077,4,5,1981,12,DS,M,,135.0,Dipodomys,spectabilis,Rodent,Control
+8381,4110,4,5,1981,12,DS,M,,129.0,Dipodomys,spectabilis,Rodent,Control
+8382,4386,5,3,1981,12,DS,M,51.0,136.0,Dipodomys,spectabilis,Rodent,Control
+8383,4573,6,5,1981,12,DS,M,53.0,138.0,Dipodomys,spectabilis,Rodent,Control
+8384,4626,7,7,1981,12,DS,M,53.0,141.0,Dipodomys,spectabilis,Rodent,Control
+8385,4728,7,31,1981,12,DS,M,52.0,144.0,Dipodomys,spectabilis,Rodent,Control
+8386,4773,8,30,1981,12,DS,M,54.0,145.0,Dipodomys,spectabilis,Rodent,Control
+8387,4813,9,29,1981,12,DS,M,52.0,146.0,Dipodomys,spectabilis,Rodent,Control
+8388,4869,10,24,1981,12,DS,M,53.0,155.0,Dipodomys,spectabilis,Rodent,Control
+8389,4975,11,22,1981,12,DS,M,52.0,161.0,Dipodomys,spectabilis,Rodent,Control
+8447,4369,5,3,1981,12,PP,F,21.0,12.0,Chaetodipus,penicillatus,Rodent,Control
+8448,4719,7,31,1981,12,PP,F,19.0,15.0,Chaetodipus,penicillatus,Rodent,Control
+8656,4896,10,24,1981,12,OT,M,21.0,15.0,Onychomys,torridus,Rodent,Control
+8657,4899,10,24,1981,12,OT,F,21.0,19.0,Onychomys,torridus,Rodent,Control
+8658,4903,10,24,1981,12,OT,F,21.0,25.0,Onychomys,torridus,Rodent,Control
+8836,4020,4,5,1981,12,DO,F,,60.0,Dipodomys,ordii,Rodent,Control
+8837,4032,4,5,1981,12,DO,M,,54.0,Dipodomys,ordii,Rodent,Control
+8838,4115,4,5,1981,12,DO,M,,47.0,Dipodomys,ordii,Rodent,Control
+8839,4356,5,3,1981,12,DO,M,36.0,40.0,Dipodomys,ordii,Rodent,Control
+8840,5153,12,31,1981,12,DO,F,36.0,38.0,Dipodomys,ordii,Rodent,Control
+9117,3828,1,31,1981,12,OL,M,21.0,42.0,Onychomys,leucogaster,Rodent,Control
+9118,3992,3,9,1981,12,OL,M,23.0,39.0,Onychomys,leucogaster,Rodent,Control
+9195,3780,1,12,1981,12,RM,M,16.0,11.0,Reithrodontomys,megalotis,Rodent,Control
+9196,3831,1,31,1981,12,RM,M,16.0,12.0,Reithrodontomys,megalotis,Rodent,Control
+9197,5114,12,31,1981,12,RM,F,16.0,9.0,Reithrodontomys,megalotis,Rodent,Control
+9198,5123,12,31,1981,12,RM,M,17.0,8.0,Reithrodontomys,megalotis,Rodent,Control
+9286,4383,5,3,1981,12,SA,,,,Sylvilagus,audubonii,Rabbit,Control
+9434,4302,4,6,1981,18,NL,M,,220.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+9435,4395,5,3,1981,18,NL,F,32.0,56.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+9436,4561,6,5,1981,18,NL,F,32.0,105.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+9437,4584,6,5,1981,18,NL,M,32.0,123.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+9438,4676,7,8,1981,18,NL,F,31.0,76.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+9439,5104,12,30,1981,18,NL,F,35.0,212.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+9573,3713,1,11,1981,18,DM,F,33.0,34.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9574,3829,1,31,1981,18,DM,F,35.0,35.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9575,3842,1,31,1981,18,DM,M,35.0,53.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9576,3931,3,8,1981,18,DM,F,36.0,38.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9577,3932,3,8,1981,18,DM,M,36.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9578,4237,4,6,1981,18,DM,F,,50.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9579,4242,4,6,1981,18,DM,F,,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9580,4267,4,6,1981,18,DM,M,,52.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9581,4270,4,6,1981,18,DM,F,,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9582,4286,4,6,1981,18,DM,F,,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9583,4293,4,6,1981,18,DM,M,,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9584,4296,4,6,1981,18,DM,F,,48.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9585,4309,4,6,1981,18,DM,M,,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9586,4314,4,6,1981,18,DM,F,,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9587,4329,4,6,1981,18,DM,F,,49.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9588,4332,4,6,1981,18,DM,M,,37.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9589,4337,4,6,1981,18,DM,M,,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9590,4390,5,3,1981,18,DM,F,36.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9591,4582,6,5,1981,18,DM,F,37.0,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9592,4663,7,8,1981,18,DM,F,34.0,27.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9593,4672,7,8,1981,18,DM,F,35.0,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9594,4758,8,30,1981,18,DM,F,36.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9595,4786,8,30,1981,18,DM,F,35.0,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9596,4826,9,29,1981,18,DM,F,36.0,57.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9597,4827,9,29,1981,18,DM,M,34.0,32.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9598,4828,9,29,1981,18,DM,M,36.0,27.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9599,4871,10,24,1981,18,DM,M,37.0,49.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9600,4882,10,24,1981,18,DM,M,39.0,39.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9601,4885,10,24,1981,18,DM,F,36.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9602,4886,10,24,1981,18,DM,M,36.0,27.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9603,4904,10,24,1981,18,DM,F,34.0,22.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9604,4964,11,22,1981,18,DM,F,36.0,50.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9605,4978,11,22,1981,18,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9606,5086,12,30,1981,18,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9607,5091,12,30,1981,18,DM,F,37.0,40.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9608,5098,12,30,1981,18,DM,F,34.0,24.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+9609,5109,12,30,1981,18,DM,F,36.0,22.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+10047,3708,1,11,1981,18,DS,M,48.0,130.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10048,3818,1,31,1981,18,DS,F,50.0,137.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10049,3823,1,31,1981,18,DS,M,46.0,139.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10050,3826,1,31,1981,18,DS,M,48.0,122.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10051,4191,4,6,1981,18,DS,M,,138.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10052,4197,4,6,1981,18,DS,F,,143.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10053,4207,4,6,1981,18,DS,M,,118.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10054,4260,4,6,1981,18,DS,F,,122.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10055,4365,5,3,1981,18,DS,F,,147.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10056,4371,5,3,1981,18,DS,M,47.0,120.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10057,4558,6,5,1981,18,DS,M,47.0,119.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10058,4575,6,5,1981,18,DS,F,52.0,141.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10059,4659,7,8,1981,18,DS,M,51.0,84.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10060,4700,7,30,1981,18,DS,M,52.0,92.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10061,4764,8,30,1981,18,DS,F,52.0,112.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10062,4982,11,22,1981,18,DS,F,51.0,154.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10063,5084,12,30,1981,18,DS,F,51.0,124.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+10229,4246,4,6,1981,18,OT,M,,31.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+10230,4695,7,30,1981,18,OT,F,21.0,18.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+10231,4823,9,29,1981,18,OT,F,21.0,37.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+10232,4891,10,24,1981,18,OT,M,21.0,19.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+10326,4250,4,6,1981,18,DO,F,,49.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+10356,4219,4,6,1981,18,OL,M,,38.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+10357,4870,10,24,1981,18,OL,M,21.0,21.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+10358,4898,10,24,1981,18,OL,F,19.0,18.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+10359,4900,10,24,1981,18,OL,F,19.0,19.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+10360,4993,11,22,1981,18,OL,M,21.0,24.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+10361,4995,11,22,1981,18,OL,F,22.0,24.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+10512,5005,11,22,1981,18,PM,F,21.0,24.0,Peromyscus,maniculatus,Rodent,Short-term Krat Exclosure
+10871,4782,8,30,1981,11,NL,F,32.0,172.0,Neotoma,albigula,Rodent,Control
+10872,4838,9,30,1981,11,NL,M,31.0,155.0,Neotoma,albigula,Rodent,Control
+10873,4846,9,30,1981,11,NL,F,32.0,160.0,Neotoma,albigula,Rodent,Control
+10874,4914,10,25,1981,11,NL,M,34.0,162.0,Neotoma,albigula,Rodent,Control
+10875,4923,10,25,1981,11,NL,F,33.0,157.0,Neotoma,albigula,Rodent,Control
+10876,4974,11,22,1981,11,NL,M,,186.0,Neotoma,albigula,Rodent,Control
+10877,4986,11,22,1981,11,NL,F,33.0,169.0,Neotoma,albigula,Rodent,Control
+10878,5134,12,31,1981,11,NL,M,33.0,180.0,Neotoma,albigula,Rodent,Control
+11000,3686,1,11,1981,11,DM,M,36.0,34.0,Dipodomys,merriami,Rodent,Control
+11001,3690,1,11,1981,11,DM,F,35.0,46.0,Dipodomys,merriami,Rodent,Control
+11002,3809,1,31,1981,11,DM,M,38.0,47.0,Dipodomys,merriami,Rodent,Control
+11003,3824,1,31,1981,11,DM,M,36.0,38.0,Dipodomys,merriami,Rodent,Control
+11004,3857,1,31,1981,11,DM,F,36.0,46.0,Dipodomys,merriami,Rodent,Control
+11005,3915,3,8,1981,11,DM,M,37.0,39.0,Dipodomys,merriami,Rodent,Control
+11006,3937,3,8,1981,11,DM,M,37.0,52.0,Dipodomys,merriami,Rodent,Control
+11007,3942,3,8,1981,11,DM,F,34.0,51.0,Dipodomys,merriami,Rodent,Control
+11008,4214,4,6,1981,11,DM,F,,,Dipodomys,merriami,Rodent,Control
+11009,4229,4,6,1981,11,DM,M,,60.0,Dipodomys,merriami,Rodent,Control
+11010,4253,4,6,1981,11,DM,F,,39.0,Dipodomys,merriami,Rodent,Control
+11011,4274,4,6,1981,11,DM,M,,42.0,Dipodomys,merriami,Rodent,Control
+11012,4282,4,6,1981,11,DM,F,,46.0,Dipodomys,merriami,Rodent,Control
+11013,4327,4,6,1981,11,DM,M,,46.0,Dipodomys,merriami,Rodent,Control
+11014,4335,4,6,1981,11,DM,M,,48.0,Dipodomys,merriami,Rodent,Control
+11015,4344,4,6,1981,11,DM,M,,48.0,Dipodomys,merriami,Rodent,Control
+11016,4351,4,6,1981,11,DM,M,,21.0,Dipodomys,merriami,Rodent,Control
+11017,4398,5,3,1981,11,DM,M,33.0,31.0,Dipodomys,merriami,Rodent,Control
+11018,4404,5,3,1981,11,DM,F,36.0,44.0,Dipodomys,merriami,Rodent,Control
+11019,4563,6,5,1981,11,DM,M,39.0,45.0,Dipodomys,merriami,Rodent,Control
+11020,4572,6,5,1981,11,DM,F,36.0,45.0,Dipodomys,merriami,Rodent,Control
+11021,4594,6,5,1981,11,DM,M,35.0,37.0,Dipodomys,merriami,Rodent,Control
+11022,4608,7,7,1981,11,DM,F,36.0,50.0,Dipodomys,merriami,Rodent,Control
+11023,4620,7,7,1981,11,DM,M,35.0,46.0,Dipodomys,merriami,Rodent,Control
+11024,4638,7,7,1981,11,DM,M,37.0,38.0,Dipodomys,merriami,Rodent,Control
+11025,4731,7,31,1981,11,DM,M,35.0,44.0,Dipodomys,merriami,Rodent,Control
+11026,4735,7,31,1981,11,DM,F,34.0,44.0,Dipodomys,merriami,Rodent,Control
+11027,4751,7,31,1981,11,DM,M,37.0,41.0,Dipodomys,merriami,Rodent,Control
+11028,4760,8,30,1981,11,DM,F,36.0,45.0,Dipodomys,merriami,Rodent,Control
+11029,4776,8,30,1981,11,DM,F,36.0,33.0,Dipodomys,merriami,Rodent,Control
+11030,4784,8,30,1981,11,DM,M,36.0,42.0,Dipodomys,merriami,Rodent,Control
+11031,4840,9,30,1981,11,DM,F,36.0,42.0,Dipodomys,merriami,Rodent,Control
+11032,4842,9,30,1981,11,DM,M,37.0,47.0,Dipodomys,merriami,Rodent,Control
+11033,4844,9,30,1981,11,DM,F,37.0,44.0,Dipodomys,merriami,Rodent,Control
+11034,4918,10,25,1981,11,DM,F,36.0,49.0,Dipodomys,merriami,Rodent,Control
+11035,4926,10,25,1981,11,DM,F,38.0,40.0,Dipodomys,merriami,Rodent,Control
+11036,4931,10,25,1981,11,DM,M,37.0,40.0,Dipodomys,merriami,Rodent,Control
+11037,4976,11,22,1981,11,DM,F,37.0,44.0,Dipodomys,merriami,Rodent,Control
+11038,4977,11,22,1981,11,DM,F,36.0,50.0,Dipodomys,merriami,Rodent,Control
+11039,4988,11,22,1981,11,DM,M,,,Dipodomys,merriami,Rodent,Control
+11040,4991,11,22,1981,11,DM,M,37.0,54.0,Dipodomys,merriami,Rodent,Control
+11041,5003,11,22,1981,11,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Control
+11042,5119,12,31,1981,11,DM,F,36.0,39.0,Dipodomys,merriami,Rodent,Control
+11043,5149,12,31,1981,11,DM,M,36.0,45.0,Dipodomys,merriami,Rodent,Control
+11044,5156,12,31,1981,11,DM,F,37.0,47.0,Dipodomys,merriami,Rodent,Control
+11825,4633,7,7,1981,11,PF,M,16.0,6.0,Perognathus,flavus,Rodent,Control
+11849,4285,4,6,1981,11,PE,M,,25.0,Peromyscus,eremicus,Rodent,Control
+11953,3695,1,11,1981,11,DS,M,50.0,130.0,Dipodomys,spectabilis,Rodent,Control
+11954,3767,1,12,1981,11,DS,M,49.0,128.0,Dipodomys,spectabilis,Rodent,Control
+11955,3825,1,31,1981,11,DS,M,48.0,130.0,Dipodomys,spectabilis,Rodent,Control
+11956,3930,3,8,1981,11,DS,M,52.0,135.0,Dipodomys,spectabilis,Rodent,Control
+11957,4205,4,6,1981,11,DS,F,,77.0,Dipodomys,spectabilis,Rodent,Control
+11958,4280,4,6,1981,11,DS,M,,123.0,Dipodomys,spectabilis,Rodent,Control
+11959,4348,4,6,1981,11,DS,M,,117.0,Dipodomys,spectabilis,Rodent,Control
+11960,4377,5,3,1981,11,DS,M,49.0,129.0,Dipodomys,spectabilis,Rodent,Control
+11961,4565,6,5,1981,11,DS,M,,133.0,Dipodomys,spectabilis,Rodent,Control
+11962,4911,10,25,1981,11,DS,F,49.0,112.0,Dipodomys,spectabilis,Rodent,Control
+11963,5121,12,31,1981,11,DS,F,49.0,110.0,Dipodomys,spectabilis,Rodent,Control
+12043,3707,1,11,1981,11,PP,F,20.0,14.0,Chaetodipus,penicillatus,Rodent,Control
+12044,3832,1,31,1981,11,PP,F,21.0,15.0,Chaetodipus,penicillatus,Rodent,Control
+12045,4294,4,6,1981,11,PP,F,,15.0,Chaetodipus,penicillatus,Rodent,Control
+12046,4566,6,5,1981,11,PP,F,22.0,18.0,Chaetodipus,penicillatus,Rodent,Control
+12047,4602,7,7,1981,11,PP,M,20.0,11.0,Chaetodipus,penicillatus,Rodent,Control
+12048,4621,7,7,1981,11,PP,F,21.0,18.0,Chaetodipus,penicillatus,Rodent,Control
+12049,4718,7,31,1981,11,PP,F,21.0,18.0,Chaetodipus,penicillatus,Rodent,Control
+12210,4583,6,5,1981,11,OT,F,21.0,27.0,Onychomys,torridus,Rodent,Control
+12211,4836,9,30,1981,11,OT,F,22.0,24.0,Onychomys,torridus,Rodent,Control
+12212,4984,11,22,1981,11,OT,M,22.0,31.0,Onychomys,torridus,Rodent,Control
+12213,4999,11,22,1981,11,OT,F,21.0,26.0,Onychomys,torridus,Rodent,Control
+12214,5147,12,31,1981,11,OT,M,22.0,27.0,Onychomys,torridus,Rodent,Control
+12215,5152,12,31,1981,11,OT,M,21.0,23.0,Onychomys,torridus,Rodent,Control
+12549,3822,1,31,1981,11,OL,F,21.0,37.0,Onychomys,leucogaster,Rodent,Control
+12550,4240,4,6,1981,11,OL,F,,35.0,Onychomys,leucogaster,Rodent,Control
+12551,4265,4,6,1981,11,OL,F,,34.0,Onychomys,leucogaster,Rodent,Control
+12552,4929,10,25,1981,11,OL,F,22.0,28.0,Onychomys,leucogaster,Rodent,Control
+12594,5142,12,31,1981,11,RM,F,17.0,14.0,Reithrodontomys,megalotis,Rodent,Control
+12663,4364,5,3,1981,11,SA,,,,Sylvilagus,audubonii,Rabbit,Control
+12664,4367,5,3,1981,11,SA,,,,Sylvilagus,audubonii,Rabbit,Control
+12795,3839,1,31,1981,20,NL,M,32.0,218.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+12796,3935,3,8,1981,20,NL,M,36.0,223.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+12797,4156,4,5,1981,20,NL,M,,192.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+12798,4990,11,22,1981,20,NL,M,33.0,220.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+12973,3692,1,11,1981,20,DM,M,37.0,38.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12974,3812,1,31,1981,20,DM,M,36.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12975,3844,1,31,1981,20,DM,F,34.0,37.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12976,3918,3,8,1981,20,DM,M,36.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12977,3922,3,8,1981,20,DM,F,36.0,39.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12978,4017,4,5,1981,20,DM,F,,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12979,4035,4,5,1981,20,DM,F,,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12980,4056,4,5,1981,20,DM,F,,45.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12981,4061,4,5,1981,20,DM,M,,48.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12982,4072,4,5,1981,20,DM,M,,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12983,4085,4,5,1981,20,DM,M,,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12984,4091,4,5,1981,20,DM,M,,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12985,4121,4,5,1981,20,DM,M,,41.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12986,4133,4,5,1981,20,DM,F,,39.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12987,4140,4,5,1981,20,DM,F,,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12988,4147,4,5,1981,20,DM,M,,41.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12989,4366,5,3,1981,20,DM,F,35.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12990,4376,5,3,1981,20,DM,F,34.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12991,4382,5,3,1981,20,DM,M,37.0,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12992,4559,6,5,1981,20,DM,F,37.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12993,4609,7,7,1981,20,DM,M,36.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12994,4631,7,7,1981,20,DM,F,34.0,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12995,4726,7,31,1981,20,DM,M,37.0,41.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12996,4736,7,31,1981,20,DM,F,34.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12997,4766,8,30,1981,20,DM,M,38.0,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12998,4825,9,29,1981,20,DM,M,38.0,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+12999,4873,10,24,1981,20,DM,M,37.0,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13000,4883,10,24,1981,20,DM,F,36.0,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13001,4887,10,24,1981,20,DM,F,36.0,25.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13002,4890,10,24,1981,20,DM,F,36.0,26.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13003,4970,11,22,1981,20,DM,M,38.0,45.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13004,4994,11,22,1981,20,DM,F,37.0,35.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13005,5007,11,22,1981,20,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13006,5102,12,30,1981,20,DM,F,36.0,37.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+13284,3687,1,11,1981,20,PE,F,19.0,19.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+13285,3817,1,31,1981,20,PE,F,20.0,25.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+13286,3819,1,31,1981,20,PE,M,21.0,24.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+13287,4368,5,3,1981,20,PE,M,19.0,18.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+13288,4894,10,24,1981,20,PE,F,21.0,24.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+13289,4967,11,22,1981,20,PE,F,21.0,21.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+13405,3710,1,11,1981,20,DS,F,51.0,158.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13406,3834,1,31,1981,20,DS,F,48.0,158.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13407,3924,3,8,1981,20,DS,F,51.0,150.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13408,4028,4,5,1981,20,DS,F,53.0,120.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13409,4064,4,5,1981,20,DS,M,,132.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13410,4126,4,5,1981,20,DS,M,,141.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13411,4135,4,5,1981,20,DS,M,49.0,121.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13412,4164,4,5,1981,20,DS,M,,149.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13413,4184,4,5,1981,20,DS,M,,109.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13414,4378,5,3,1981,20,DS,F,,145.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13415,4385,5,3,1981,20,DS,M,52.0,122.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13416,4576,6,5,1981,20,DS,F,52.0,157.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13417,4580,6,5,1981,20,DS,M,47.0,74.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13418,4586,6,5,1981,20,DS,M,53.0,136.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13419,4628,7,7,1981,20,DS,M,49.0,96.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13420,4643,7,7,1981,20,DS,M,46.0,85.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13421,4770,8,30,1981,20,DS,F,52.0,158.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13422,4822,9,29,1981,20,DS,F,52.0,156.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13423,5001,11,22,1981,20,DS,F,52.0,166.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13424,5097,12,30,1981,20,DS,F,49.0,162.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+13617,3714,1,11,1981,20,OT,F,17.0,24.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+13618,3724,1,11,1981,20,OT,M,19.0,28.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+13619,3926,3,8,1981,20,OT,F,18.0,31.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+13620,4577,6,5,1981,20,OT,F,20.0,27.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+13740,4875,10,24,1981,20,SS,F,,57.0,Spermophilus,spilosoma,Rodent,Short-term Krat Exclosure
+13750,3699,1,11,1981,20,OL,M,19.0,37.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+13751,4832,9,29,1981,20,OL,F,19.0,21.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+13752,4889,10,24,1981,20,OL,M,21.0,26.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+13764,5092,12,30,1981,20,RM,M,17.0,10.0,Reithrodontomys,megalotis,Rodent,Short-term Krat Exclosure
+13878,4103,4,5,1981,20,PM,M,22.0,20.0,Peromyscus,maniculatus,Rodent,Short-term Krat Exclosure
+13945,3706,1,11,1981,20,AB,,,,Amphispiza,bilineata,Bird,Short-term Krat Exclosure
+13986,4743,7,31,1981,20,CQ,,,,Callipepla,squamata,Bird,Short-term Krat Exclosure
+14209,4018,4,5,1981,22,DM,F,,49.0,Dipodomys,merriami,Rodent,Control
+14210,4022,4,5,1981,22,DM,M,,43.0,Dipodomys,merriami,Rodent,Control
+14211,4029,4,5,1981,22,DM,F,,40.0,Dipodomys,merriami,Rodent,Control
+14212,4036,4,5,1981,22,DM,M,,38.0,Dipodomys,merriami,Rodent,Control
+14213,4043,4,5,1981,22,DM,M,,49.0,Dipodomys,merriami,Rodent,Control
+14214,4048,4,5,1981,22,DM,M,,40.0,Dipodomys,merriami,Rodent,Control
+14215,4067,4,5,1981,22,DM,F,,43.0,Dipodomys,merriami,Rodent,Control
+14216,4100,4,5,1981,22,DM,F,37.0,53.0,Dipodomys,merriami,Rodent,Control
+14217,4130,4,5,1981,22,DM,F,,48.0,Dipodomys,merriami,Rodent,Control
+14218,4136,4,5,1981,22,DM,F,,46.0,Dipodomys,merriami,Rodent,Control
+14219,4151,4,5,1981,22,DM,,,,Dipodomys,merriami,Rodent,Control
+14220,4170,4,5,1981,22,DM,M,,45.0,Dipodomys,merriami,Rodent,Control
+14221,4179,4,5,1981,22,DM,M,36.0,42.0,Dipodomys,merriami,Rodent,Control
+14222,4384,5,3,1981,22,DM,M,37.0,46.0,Dipodomys,merriami,Rodent,Control
+14223,4732,7,31,1981,22,DM,M,38.0,45.0,Dipodomys,merriami,Rodent,Control
+14224,4879,10,24,1981,22,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Control
+14225,4961,11,22,1981,22,DM,F,37.0,38.0,Dipodomys,merriami,Rodent,Control
+14226,5107,12,30,1981,22,DM,M,36.0,39.0,Dipodomys,merriami,Rodent,Control
+14696,3830,1,31,1981,22,PF,F,15.0,7.0,Perognathus,flavus,Rodent,Control
+14697,3858,1,31,1981,22,PF,M,15.0,8.0,Perognathus,flavus,Rodent,Control
+14698,4181,4,5,1981,22,PF,F,,8.0,Perognathus,flavus,Rodent,Control
+14699,4569,6,5,1981,22,PF,F,16.0,7.0,Perognathus,flavus,Rodent,Control
+14831,3715,1,11,1981,22,DS,F,49.0,131.0,Dipodomys,spectabilis,Rodent,Control
+14832,3716,1,11,1981,22,DS,F,48.0,136.0,Dipodomys,spectabilis,Rodent,Control
+14833,3835,1,31,1981,22,DS,F,48.0,142.0,Dipodomys,spectabilis,Rodent,Control
+14834,3843,1,31,1981,22,DS,F,51.0,126.0,Dipodomys,spectabilis,Rodent,Control
+14835,3927,3,8,1981,22,DS,F,51.0,126.0,Dipodomys,spectabilis,Rodent,Control
+14836,4065,4,5,1981,22,DS,M,,125.0,Dipodomys,spectabilis,Rodent,Control
+14837,4073,4,5,1981,22,DS,M,48.0,100.0,Dipodomys,spectabilis,Rodent,Control
+14838,4078,4,5,1981,22,DS,F,50.0,140.0,Dipodomys,spectabilis,Rodent,Control
+14839,4111,4,5,1981,22,DS,M,47.0,101.0,Dipodomys,spectabilis,Rodent,Control
+14840,4127,4,5,1981,22,DS,M,49.0,100.0,Dipodomys,spectabilis,Rodent,Control
+14841,4128,4,5,1981,22,DS,F,,134.0,Dipodomys,spectabilis,Rodent,Control
+14842,4159,4,5,1981,22,DS,F,,142.0,Dipodomys,spectabilis,Rodent,Control
+14843,4165,4,5,1981,22,DS,F,47.0,90.0,Dipodomys,spectabilis,Rodent,Control
+14844,4185,4,5,1981,22,DS,M,,139.0,Dipodomys,spectabilis,Rodent,Control
+14845,4387,5,3,1981,22,DS,M,,114.0,Dipodomys,spectabilis,Rodent,Control
+14846,4392,5,3,1981,22,DS,F,52.0,134.0,Dipodomys,spectabilis,Rodent,Control
+14847,4393,5,3,1981,22,DS,F,52.0,161.0,Dipodomys,spectabilis,Rodent,Control
+14848,4405,5,3,1981,22,DS,M,48.0,95.0,Dipodomys,spectabilis,Rodent,Control
+14849,4579,6,5,1981,22,DS,F,52.0,133.0,Dipodomys,spectabilis,Rodent,Control
+14850,4587,6,5,1981,22,DS,M,51.0,123.0,Dipodomys,spectabilis,Rodent,Control
+14851,4590,6,5,1981,22,DS,M,52.0,114.0,Dipodomys,spectabilis,Rodent,Control
+14852,4614,7,7,1981,22,DS,M,48.0,120.0,Dipodomys,spectabilis,Rodent,Control
+14853,4727,7,31,1981,22,DS,M,48.0,125.0,Dipodomys,spectabilis,Rodent,Control
+14854,4737,7,31,1981,22,DS,M,49.0,129.0,Dipodomys,spectabilis,Rodent,Control
+14855,4767,8,30,1981,22,DS,M,49.0,131.0,Dipodomys,spectabilis,Rodent,Control
+14856,4768,8,30,1981,22,DS,F,52.0,137.0,Dipodomys,spectabilis,Rodent,Control
+14857,4824,9,29,1981,22,DS,F,52.0,145.0,Dipodomys,spectabilis,Rodent,Control
+14858,4888,10,24,1981,22,DS,F,51.0,137.0,Dipodomys,spectabilis,Rodent,Control
+14859,4965,11,22,1981,22,DS,M,48.0,139.0,Dipodomys,spectabilis,Rodent,Control
+14860,4980,11,22,1981,22,DS,F,52.0,146.0,Dipodomys,spectabilis,Rodent,Control
+14861,4996,11,22,1981,22,DS,F,47.0,151.0,Dipodomys,spectabilis,Rodent,Control
+14862,5093,12,30,1981,22,DS,M,49.0,137.0,Dipodomys,spectabilis,Rodent,Control
+14863,5100,12,30,1981,22,DS,M,52.0,150.0,Dipodomys,spectabilis,Rodent,Control
+14864,5108,12,30,1981,22,DS,F,49.0,117.0,Dipodomys,spectabilis,Rodent,Control
+15117,4720,7,31,1981,22,OT,M,20.0,29.0,Onychomys,torridus,Rodent,Control
+15118,4724,7,31,1981,22,OT,F,19.0,15.0,Onychomys,torridus,Rodent,Control
+15119,4905,10,24,1981,22,OT,M,19.0,24.0,Onychomys,torridus,Rodent,Control
+15211,4092,4,5,1981,22,OL,M,,,Onychomys,leucogaster,Rodent,Control
+15212,4874,10,24,1981,22,OL,M,20.0,24.0,Onychomys,leucogaster,Rodent,Control
+15213,4881,10,24,1981,22,OL,F,21.0,24.0,Onychomys,leucogaster,Rodent,Control
+15253,3702,1,11,1981,22,AB,,,,Amphispiza,bilineata,Bird,Control
+15254,3705,1,11,1981,22,AB,,,,Amphispiza,bilineata,Bird,Control
+15552,4129,4,5,1981,14,NL,M,29.0,55.0,Neotoma,albigula,Rodent,Control
+15553,4500,6,4,1981,14,NL,M,32.0,87.0,Neotoma,albigula,Rodent,Control
+15554,4510,6,4,1981,14,NL,M,34.0,91.0,Neotoma,albigula,Rodent,Control
+15555,4536,6,4,1981,14,NL,F,31.0,85.0,Neotoma,albigula,Rodent,Control
+15708,3773,1,12,1981,14,DM,F,36.0,55.0,Dipodomys,merriami,Rodent,Control
+15709,3774,1,12,1981,14,DM,M,36.0,53.0,Dipodomys,merriami,Rodent,Control
+15710,3786,1,12,1981,14,DM,F,35.0,53.0,Dipodomys,merriami,Rodent,Control
+15711,3803,1,12,1981,14,DM,M,36.0,52.0,Dipodomys,merriami,Rodent,Control
+15712,3805,1,12,1981,14,DM,F,36.0,44.0,Dipodomys,merriami,Rodent,Control
+15713,3880,2,1,1981,14,DM,F,35.0,51.0,Dipodomys,merriami,Rodent,Control
+15714,3886,2,1,1981,14,DM,M,36.0,50.0,Dipodomys,merriami,Rodent,Control
+15715,3900,2,1,1981,14,DM,F,37.0,39.0,Dipodomys,merriami,Rodent,Control
+15716,3989,3,9,1981,14,DM,F,36.0,50.0,Dipodomys,merriami,Rodent,Control
+15717,4007,3,9,1981,14,DM,F,35.0,39.0,Dipodomys,merriami,Rodent,Control
+15718,4010,3,9,1981,14,DM,M,36.0,50.0,Dipodomys,merriami,Rodent,Control
+15719,4026,4,5,1981,14,DM,M,,47.0,Dipodomys,merriami,Rodent,Control
+15720,4050,4,5,1981,14,DM,F,,47.0,Dipodomys,merriami,Rodent,Control
+15721,4098,4,5,1981,14,DM,F,,54.0,Dipodomys,merriami,Rodent,Control
+15722,4106,4,5,1981,14,DM,F,,51.0,Dipodomys,merriami,Rodent,Control
+15723,4116,4,5,1981,14,DM,F,,38.0,Dipodomys,merriami,Rodent,Control
+15724,4120,4,5,1981,14,DM,M,,47.0,Dipodomys,merriami,Rodent,Control
+15725,4143,4,5,1981,14,DM,F,,36.0,Dipodomys,merriami,Rodent,Control
+15726,4146,4,5,1981,14,DM,M,,49.0,Dipodomys,merriami,Rodent,Control
+15727,4149,4,5,1981,14,DM,M,,48.0,Dipodomys,merriami,Rodent,Control
+15728,4168,4,5,1981,14,DM,F,,40.0,Dipodomys,merriami,Rodent,Control
+15729,4173,4,5,1981,14,DM,M,,43.0,Dipodomys,merriami,Rodent,Control
+15730,4177,4,5,1981,14,DM,M,35.0,40.0,Dipodomys,merriami,Rodent,Control
+15731,4189,4,5,1981,14,DM,M,,48.0,Dipodomys,merriami,Rodent,Control
+15732,4420,5,4,1981,14,DM,M,35.0,46.0,Dipodomys,merriami,Rodent,Control
+15733,4435,5,4,1981,14,DM,M,35.0,41.0,Dipodomys,merriami,Rodent,Control
+15734,4445,5,4,1981,14,DM,F,36.0,41.0,Dipodomys,merriami,Rodent,Control
+15735,4456,5,4,1981,14,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Control
+15736,4476,5,4,1981,14,DM,M,36.0,46.0,Dipodomys,merriami,Rodent,Control
+15737,4508,6,4,1981,14,DM,F,36.0,49.0,Dipodomys,merriami,Rodent,Control
+15738,4537,6,4,1981,14,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Control
+15739,4539,6,4,1981,14,DM,F,36.0,43.0,Dipodomys,merriami,Rodent,Control
+15740,4654,7,8,1981,14,DM,M,35.0,49.0,Dipodomys,merriami,Rodent,Control
+15741,4677,7,8,1981,14,DM,F,35.0,43.0,Dipodomys,merriami,Rodent,Control
+15742,4681,7,8,1981,14,DM,F,36.0,48.0,Dipodomys,merriami,Rodent,Control
+15743,4701,7,30,1981,14,DM,M,34.0,47.0,Dipodomys,merriami,Rodent,Control
+15744,4712,7,30,1981,14,DM,F,35.0,42.0,Dipodomys,merriami,Rodent,Control
+15745,4792,8,31,1981,14,DM,F,36.0,42.0,Dipodomys,merriami,Rodent,Control
+15746,4800,8,31,1981,14,DM,M,36.0,49.0,Dipodomys,merriami,Rodent,Control
+15747,4850,9,30,1981,14,DM,M,36.0,48.0,Dipodomys,merriami,Rodent,Control
+15748,4852,9,30,1981,14,DM,F,36.0,42.0,Dipodomys,merriami,Rodent,Control
+15749,4912,10,25,1981,14,DM,M,36.0,46.0,Dipodomys,merriami,Rodent,Control
+15750,4919,10,25,1981,14,DM,F,36.0,45.0,Dipodomys,merriami,Rodent,Control
+15751,4936,10,25,1981,14,DM,F,35.0,43.0,Dipodomys,merriami,Rodent,Control
+15752,5023,11,23,1981,14,DM,M,36.0,44.0,Dipodomys,merriami,Rodent,Control
+15753,5026,11,23,1981,14,DM,,,,Dipodomys,merriami,Rodent,Control
+15754,5030,11,23,1981,14,DM,M,36.0,34.0,Dipodomys,merriami,Rodent,Control
+15755,5035,11,23,1981,14,DM,M,36.0,47.0,Dipodomys,merriami,Rodent,Control
+15756,5054,11,23,1981,14,DM,M,39.0,,Dipodomys,merriami,Rodent,Control
+15757,5068,11,23,1981,14,DM,M,37.0,43.0,Dipodomys,merriami,Rodent,Control
+15758,5070,11,23,1981,14,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Control
+15759,5073,11,23,1981,14,DM,F,37.0,50.0,Dipodomys,merriami,Rodent,Control
+15760,5118,12,31,1981,14,DM,M,36.0,37.0,Dipodomys,merriami,Rodent,Control
+15761,5125,12,31,1981,14,DM,M,33.0,34.0,Dipodomys,merriami,Rodent,Control
+15762,5155,12,31,1981,14,DM,F,34.0,44.0,Dipodomys,merriami,Rodent,Control
+16813,4924,10,25,1981,14,PF,F,16.0,6.0,Perognathus,flavus,Rodent,Control
+16814,4925,10,25,1981,14,PF,F,16.0,8.0,Perognathus,flavus,Rodent,Control
+16815,5136,12,31,1981,14,PF,M,17.0,7.0,Perognathus,flavus,Rodent,Control
+16845,4847,9,30,1981,14,PE,M,19.0,16.0,Peromyscus,eremicus,Rodent,Control
+16914,3772,1,12,1981,14,DS,F,47.0,138.0,Dipodomys,spectabilis,Rodent,Control
+16915,3991,3,9,1981,14,DS,M,49.0,81.0,Dipodomys,spectabilis,Rodent,Control
+16916,4083,4,5,1981,14,DS,M,,93.0,Dipodomys,spectabilis,Rodent,Control
+16917,4125,4,5,1981,14,DS,M,,136.0,Dipodomys,spectabilis,Rodent,Control
+16918,4442,5,4,1981,14,DS,M,48.0,133.0,Dipodomys,spectabilis,Rodent,Control
+16919,4462,5,4,1981,14,DS,M,47.0,96.0,Dipodomys,spectabilis,Rodent,Control
+16920,4694,7,30,1981,14,DS,M,49.0,114.0,Dipodomys,spectabilis,Rodent,Control
+16921,4794,8,31,1981,14,DS,M,50.0,126.0,Dipodomys,spectabilis,Rodent,Control
+16922,4851,9,30,1981,14,DS,M,52.0,144.0,Dipodomys,spectabilis,Rodent,Control
+16923,4921,10,25,1981,14,DS,M,49.0,135.0,Dipodomys,spectabilis,Rodent,Control
+16924,5120,12,31,1981,14,DS,,49.0,112.0,Dipodomys,spectabilis,Rodent,Control
+16925,5126,12,31,1981,14,DS,M,49.0,110.0,Dipodomys,spectabilis,Rodent,Control
+17041,3995,3,9,1981,14,OT,M,19.0,12.0,Onychomys,torridus,Rodent,Control
+17042,4080,4,5,1981,14,OT,M,,29.0,Onychomys,torridus,Rodent,Control
+17043,4532,6,4,1981,14,OT,M,19.0,15.0,Onychomys,torridus,Rodent,Control
+17118,4046,4,5,1981,14,DO,F,,58.0,Dipodomys,ordii,Rodent,Control
+17119,4063,4,5,1981,14,DO,M,,50.0,Dipodomys,ordii,Rodent,Control
+17120,4424,5,4,1981,14,DO,M,36.0,48.0,Dipodomys,ordii,Rodent,Control
+17121,4457,5,4,1981,14,DO,F,35.0,52.0,Dipodomys,ordii,Rodent,Control
+17122,4498,6,4,1981,14,DO,F,36.0,52.0,Dipodomys,ordii,Rodent,Control
+17123,4650,7,8,1981,14,DO,F,34.0,33.0,Dipodomys,ordii,Rodent,Control
+17181,4139,4,5,1981,14,SS,,,,Spermophilus,spilosoma,Rodent,Control
+17202,4033,4,5,1981,14,OL,F,,39.0,Onychomys,leucogaster,Rodent,Control
+17203,4089,4,5,1981,14,OL,M,,36.0,Onychomys,leucogaster,Rodent,Control
+17204,4533,6,4,1981,14,OL,F,22.0,36.0,Onychomys,leucogaster,Rodent,Control
+17205,4913,10,25,1981,14,OL,M,21.0,25.0,Onychomys,leucogaster,Rodent,Control
+17206,5049,11,23,1981,14,OL,M,21.0,34.0,Onychomys,leucogaster,Rodent,Control
+17207,5059,11,23,1981,14,OL,F,20.0,26.0,Onychomys,leucogaster,Rodent,Control
+17208,5137,12,31,1981,14,OL,M,23.0,38.0,Onychomys,leucogaster,Rodent,Control
+17419,4837,9,30,1981,5,NL,F,32.0,185.0,Neotoma,albigula,Rodent,Rodent Exclosure
+17420,5024,11,23,1981,5,NL,F,33.0,186.0,Neotoma,albigula,Rodent,Rodent Exclosure
+17518,3748,1,12,1981,5,DM,M,37.0,55.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17519,3749,1,12,1981,5,DM,M,36.0,48.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17520,3782,1,12,1981,5,DM,F,34.0,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17521,3800,1,12,1981,5,DM,M,37.0,56.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17522,3807,1,12,1981,5,DM,M,36.0,33.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17523,3863,2,1,1981,5,DM,F,36.0,43.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17524,3871,2,1,1981,5,DM,F,35.0,39.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17525,3878,2,1,1981,5,DM,M,36.0,53.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17526,3883,2,1,1981,5,DM,M,36.0,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17527,3894,2,1,1981,5,DM,M,38.0,36.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17528,3905,2,1,1981,5,DM,M,36.0,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17529,3968,3,9,1981,5,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17530,4008,3,9,1981,5,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17531,4011,3,9,1981,5,DM,F,38.0,43.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17532,4031,4,5,1981,5,DM,M,,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17533,4038,4,5,1981,5,DM,M,,52.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17534,4040,4,5,1981,5,DM,M,,43.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17535,4045,4,5,1981,5,DM,F,,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17536,4049,4,5,1981,5,DM,M,,,Dipodomys,merriami,Rodent,Rodent Exclosure
+17537,4068,4,5,1981,5,DM,M,,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17538,4075,4,5,1981,5,DM,M,,52.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17539,4093,4,5,1981,5,DM,M,,50.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17540,4096,4,5,1981,5,DM,F,,42.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17541,4137,4,5,1981,5,DM,F,,36.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17542,4148,4,5,1981,5,DM,F,,51.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17543,4153,4,5,1981,5,DM,M,,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17544,4161,4,5,1981,5,DM,M,,48.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17545,4167,4,5,1981,5,DM,F,,38.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17546,4172,4,5,1981,5,DM,M,,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17547,4182,4,5,1981,5,DM,M,,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17548,4450,5,4,1981,5,DM,M,32.0,17.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17549,4451,5,4,1981,5,DM,F,33.0,17.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17550,4453,5,4,1981,5,DM,F,34.0,41.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17551,4483,5,4,1981,5,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17552,4486,5,4,1981,5,DM,F,35.0,50.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17553,4490,6,4,1981,5,DM,M,38.0,48.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17554,4494,6,4,1981,5,DM,,35.0,28.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17555,4497,6,4,1981,5,DM,F,35.0,38.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17556,4542,6,4,1981,5,DM,M,38.0,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17557,4544,6,4,1981,5,DM,F,35.0,39.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17558,4549,6,4,1981,5,DM,F,37.0,44.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17559,4652,7,8,1981,5,DM,M,36.0,31.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17560,4653,7,8,1981,5,DM,M,37.0,50.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17561,4679,7,8,1981,5,DM,F,36.0,28.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17562,4682,7,8,1981,5,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17563,4687,7,8,1981,5,DM,F,37.0,54.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17564,4691,7,30,1981,5,DM,F,33.0,41.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17565,4705,7,30,1981,5,DM,M,37.0,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17566,4790,8,31,1981,5,DM,F,34.0,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17567,4801,8,31,1981,5,DM,M,38.0,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17568,4834,9,30,1981,5,DM,M,38.0,51.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17569,4845,9,30,1981,5,DM,M,37.0,52.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17570,4930,10,25,1981,5,DM,F,36.0,42.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17571,4932,10,25,1981,5,DM,M,38.0,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17572,4933,10,25,1981,5,DM,M,39.0,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17573,5019,11,23,1981,5,DM,M,38.0,52.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17574,5032,11,23,1981,5,DM,M,37.0,32.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17575,5038,11,23,1981,5,DM,F,35.0,22.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17576,5039,11,23,1981,5,DM,F,36.0,21.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17577,5051,11,23,1981,5,DM,M,36.0,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17578,5055,11,23,1981,5,DM,F,37.0,38.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17579,5077,11,23,1981,5,DM,M,36.0,43.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+17890,4113,4,5,1981,5,PF,F,15.0,5.0,Perognathus,flavus,Rodent,Rodent Exclosure
+17891,4448,5,4,1981,5,PF,M,15.0,7.0,Perognathus,flavus,Rodent,Rodent Exclosure
+17892,4484,5,4,1981,5,PF,F,14.0,9.0,Perognathus,flavus,Rodent,Rodent Exclosure
+17893,4657,7,8,1981,5,PF,F,15.0,6.0,Perognathus,flavus,Rodent,Rodent Exclosure
+17894,4696,7,30,1981,5,PF,M,17.0,8.0,Perognathus,flavus,Rodent,Rodent Exclosure
+18012,3953,3,9,1981,5,DS,M,50.0,82.0,Dipodomys,spectabilis,Rodent,Rodent Exclosure
+18013,4463,5,4,1981,5,DS,F,50.0,82.0,Dipodomys,spectabilis,Rodent,Rodent Exclosure
+18014,4488,5,4,1981,5,DS,M,49.0,103.0,Dipodomys,spectabilis,Rodent,Rodent Exclosure
+18015,4503,6,4,1981,5,DS,M,49.0,103.0,Dipodomys,spectabilis,Rodent,Rodent Exclosure
+18117,4915,10,25,1981,5,OT,M,20.0,19.0,Onychomys,torridus,Rodent,Rodent Exclosure
+18118,4916,10,25,1981,5,OT,F,20.0,24.0,Onychomys,torridus,Rodent,Rodent Exclosure
+18119,4939,10,25,1981,5,OT,F,20.0,21.0,Onychomys,torridus,Rodent,Rodent Exclosure
+18314,3779,1,12,1981,5,OL,F,20.0,37.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+18315,3948,3,9,1981,5,OL,F,21.0,51.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+18316,4122,4,5,1981,5,OL,F,,37.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+18644,3750,1,12,1981,6,DM,F,36.0,41.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18645,3751,1,12,1981,6,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18646,3949,3,9,1981,6,DM,M,35.0,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18647,3954,3,9,1981,6,DM,F,36.0,50.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18648,3966,3,9,1981,6,DM,F,36.0,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18649,3972,3,9,1981,6,DM,M,38.0,56.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18650,4195,4,6,1981,6,DM,M,,48.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18651,4209,4,6,1981,6,DM,M,,41.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18652,4212,4,6,1981,6,DM,M,,27.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18653,4217,4,6,1981,6,DM,F,,40.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18654,4234,4,6,1981,6,DM,F,,39.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18655,4252,4,6,1981,6,DM,M,,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18656,4255,4,6,1981,6,DM,M,,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18657,4284,4,6,1981,6,DM,M,,45.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18658,4291,4,6,1981,6,DM,M,,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18659,4300,4,6,1981,6,DM,F,,,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18660,4326,4,6,1981,6,DM,F,,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18661,4518,6,4,1981,6,DM,M,35.0,24.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18662,4547,6,4,1981,6,DM,M,35.0,36.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18663,4674,7,8,1981,6,DM,M,34.0,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18664,4835,9,30,1981,6,DM,F,37.0,48.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18665,5017,11,23,1981,6,DM,M,37.0,51.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18666,5025,11,23,1981,6,DM,M,,,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18667,5037,11,23,1981,6,DM,M,36.0,54.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18668,5047,11,23,1981,6,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18669,5050,11,23,1981,6,DM,F,37.0,36.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+18812,3791,1,12,1981,6,PF,M,15.0,8.0,Perognathus,flavus,Rodent,Short-term Krat Exclosure
+18813,3903,2,1,1981,6,PF,M,15.0,7.0,Perognathus,flavus,Rodent,Short-term Krat Exclosure
+18814,4658,7,8,1981,6,PF,F,13.0,5.0,Perognathus,flavus,Rodent,Short-term Krat Exclosure
+18815,5066,11,23,1981,6,PF,M,17.0,7.0,Perognathus,flavus,Rodent,Short-term Krat Exclosure
+19019,3752,1,12,1981,6,DS,M,50.0,127.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19020,3754,1,12,1981,6,DS,M,48.0,132.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19021,3755,1,12,1981,6,DS,M,53.0,123.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19022,3788,1,12,1981,6,DS,F,48.0,135.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19023,3882,2,1,1981,6,DS,F,51.0,133.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19024,3959,3,9,1981,6,DS,M,49.0,131.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19025,3969,3,9,1981,6,DS,F,50.0,129.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19026,3984,3,9,1981,6,DS,M,52.0,136.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19027,4012,3,9,1981,6,DS,F,48.0,126.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19028,4200,4,6,1981,6,DS,M,,125.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19029,4204,4,6,1981,6,DS,M,,126.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19030,4222,4,6,1981,6,DS,M,,133.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19031,4249,4,6,1981,6,DS,F,,133.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19032,4258,4,6,1981,6,DS,M,,126.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19033,4263,4,6,1981,6,DS,F,,109.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19034,4272,4,6,1981,6,DS,M,,94.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19035,4278,4,6,1981,6,DS,M,,122.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19036,4281,4,6,1981,6,DS,F,,133.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19037,4446,5,4,1981,6,DS,M,54.0,146.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19038,4465,5,4,1981,6,DS,F,50.0,123.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19039,4506,6,4,1981,6,DS,F,46.0,64.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19040,4511,6,4,1981,6,DS,M,53.0,143.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19041,4522,6,4,1981,6,DS,F,50.0,121.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19042,4665,7,8,1981,6,DS,F,47.0,123.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19043,4668,7,8,1981,6,DS,M,49.0,95.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19044,4670,7,8,1981,6,DS,F,50.0,90.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19045,4702,7,30,1981,6,DS,F,48.0,128.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19046,4703,7,30,1981,6,DS,M,52.0,101.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19047,4706,7,30,1981,6,DS,F,,,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19048,4796,8,31,1981,6,DS,M,52.0,119.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19049,4802,8,31,1981,6,DS,M,49.0,123.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19050,4839,9,30,1981,6,DS,F,49.0,145.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19051,5029,11,23,1981,6,DS,F,49.0,141.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19052,5056,11,23,1981,6,DS,M,50.0,129.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19053,5062,11,23,1981,6,DS,M,51.0,,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+19090,4313,4,6,1981,6,PP,F,,14.0,Chaetodipus,penicillatus,Rodent,Short-term Krat Exclosure
+19091,4937,10,25,1981,6,PP,M,23.0,17.0,Chaetodipus,penicillatus,Rodent,Short-term Krat Exclosure
+19309,3753,1,12,1981,6,OT,M,20.0,24.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+19310,4321,4,6,1981,6,OT,M,,25.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+19457,4343,4,6,1981,6,DO,F,,52.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+19458,5033,11,23,1981,6,DO,F,36.0,49.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+19459,5040,11,23,1981,6,DO,F,37.0,59.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+19460,5043,11,23,1981,6,DO,M,38.0,58.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+19851,3775,1,12,1981,6,AB,,,,Amphispiza,bilineata,Bird,Short-term Krat Exclosure
+20128,3747,1,12,1981,4,NL,F,33.0,200.0,Neotoma,albigula,Rodent,Control
+20129,4713,7,30,1981,4,NL,M,34.0,175.0,Neotoma,albigula,Rodent,Control
+20199,3746,1,12,1981,4,DM,F,36.0,37.0,Dipodomys,merriami,Rodent,Control
+20200,3798,1,12,1981,4,DM,M,38.0,53.0,Dipodomys,merriami,Rodent,Control
+20201,3898,2,1,1981,4,DM,M,36.0,49.0,Dipodomys,merriami,Rodent,Control
+20202,3962,3,9,1981,4,DM,M,37.0,51.0,Dipodomys,merriami,Rodent,Control
+20203,3965,3,9,1981,4,DM,F,34.0,29.0,Dipodomys,merriami,Rodent,Control
+20204,3971,3,9,1981,4,DM,M,36.0,50.0,Dipodomys,merriami,Rodent,Control
+20205,4005,3,9,1981,4,DM,F,35.0,39.0,Dipodomys,merriami,Rodent,Control
+20206,4006,3,9,1981,4,DM,M,38.0,49.0,Dipodomys,merriami,Rodent,Control
+20207,4194,4,6,1981,4,DM,M,,46.0,Dipodomys,merriami,Rodent,Control
+20208,4199,4,6,1981,4,DM,F,,34.0,Dipodomys,merriami,Rodent,Control
+20209,4208,4,6,1981,4,DM,M,,44.0,Dipodomys,merriami,Rodent,Control
+20210,4228,4,6,1981,4,DM,M,,48.0,Dipodomys,merriami,Rodent,Control
+20211,4304,4,6,1981,4,DM,M,,46.0,Dipodomys,merriami,Rodent,Control
+20212,4312,4,6,1981,4,DM,M,,46.0,Dipodomys,merriami,Rodent,Control
+20213,4325,4,6,1981,4,DM,F,,42.0,Dipodomys,merriami,Rodent,Control
+20214,4468,5,4,1981,4,DM,F,35.0,35.0,Dipodomys,merriami,Rodent,Control
+20215,4473,5,4,1981,4,DM,F,37.0,41.0,Dipodomys,merriami,Rodent,Control
+20216,4485,5,4,1981,4,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Control
+20217,4491,6,4,1981,4,DM,F,34.0,41.0,Dipodomys,merriami,Rodent,Control
+20218,4492,6,4,1981,4,DM,M,36.0,53.0,Dipodomys,merriami,Rodent,Control
+20219,4496,6,4,1981,4,DM,F,36.0,46.0,Dipodomys,merriami,Rodent,Control
+20220,4546,6,4,1981,4,DM,F,37.0,42.0,Dipodomys,merriami,Rodent,Control
+20221,4704,7,30,1981,4,DM,F,37.0,37.0,Dipodomys,merriami,Rodent,Control
+20222,4793,8,31,1981,4,DM,M,35.0,37.0,Dipodomys,merriami,Rodent,Control
+20223,4795,8,31,1981,4,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Control
+20224,4797,8,31,1981,4,DM,M,38.0,53.0,Dipodomys,merriami,Rodent,Control
+20225,4941,10,26,1981,4,DM,M,34.0,42.0,Dipodomys,merriami,Rodent,Control
+20226,4953,10,26,1981,4,DM,M,38.0,51.0,Dipodomys,merriami,Rodent,Control
+20227,5014,11,23,1981,4,DM,M,38.0,51.0,Dipodomys,merriami,Rodent,Control
+20228,5022,11,23,1981,4,DM,M,37.0,43.0,Dipodomys,merriami,Rodent,Control
+20229,5057,11,23,1981,4,DM,F,37.0,39.0,Dipodomys,merriami,Rodent,Control
+20230,5065,11,23,1981,4,DM,F,36.0,45.0,Dipodomys,merriami,Rodent,Control
+21223,3987,3,9,1981,4,PF,F,16.0,9.0,Perognathus,flavus,Rodent,Control
+21224,4290,4,6,1981,4,PF,,,4.0,Perognathus,flavus,Rodent,Control
+21225,4466,5,4,1981,4,PF,F,14.0,8.0,Perognathus,flavus,Rodent,Control
+21226,4493,6,4,1981,4,PF,M,11.0,6.0,Perognathus,flavus,Rodent,Control
+21227,4526,6,4,1981,4,PF,M,15.0,6.0,Perognathus,flavus,Rodent,Control
+21455,4003,3,9,1981,4,DS,F,,139.0,Dipodomys,spectabilis,Rodent,Control
+21456,4244,4,6,1981,4,DS,F,,138.0,Dipodomys,spectabilis,Rodent,Control
+21457,4307,4,6,1981,4,DS,F,,115.0,Dipodomys,spectabilis,Rodent,Control
+21458,4342,4,6,1981,4,DS,M,,125.0,Dipodomys,spectabilis,Rodent,Control
+21459,4458,5,4,1981,4,DS,F,54.0,133.0,Dipodomys,spectabilis,Rodent,Control
+21460,4479,5,4,1981,4,DS,F,49.0,95.0,Dipodomys,spectabilis,Rodent,Control
+21461,4502,6,4,1981,4,DS,F,,123.0,Dipodomys,spectabilis,Rodent,Control
+21462,4504,6,4,1981,4,DS,F,53.0,128.0,Dipodomys,spectabilis,Rodent,Control
+21463,4505,6,4,1981,4,DS,F,47.0,62.0,Dipodomys,spectabilis,Rodent,Control
+21464,4534,6,4,1981,4,DS,F,48.0,97.0,Dipodomys,spectabilis,Rodent,Control
+21465,4538,6,4,1981,4,DS,M,54.0,101.0,Dipodomys,spectabilis,Rodent,Control
+21466,4541,6,4,1981,4,DS,F,52.0,100.0,Dipodomys,spectabilis,Rodent,Control
+21467,4664,7,8,1981,4,DS,F,51.0,130.0,Dipodomys,spectabilis,Rodent,Control
+21468,4673,7,8,1981,4,DS,F,51.0,86.0,Dipodomys,spectabilis,Rodent,Control
+21469,4688,7,8,1981,4,DS,M,54.0,99.0,Dipodomys,spectabilis,Rodent,Control
+21470,4699,7,30,1981,4,DS,F,50.0,135.0,Dipodomys,spectabilis,Rodent,Control
+21471,4708,7,30,1981,4,DS,M,54.0,100.0,Dipodomys,spectabilis,Rodent,Control
+21472,4857,10,1,1981,4,DS,F,52.0,146.0,Dipodomys,spectabilis,Rodent,Control
+21473,4863,10,1,1981,4,DS,M,52.0,153.0,Dipodomys,spectabilis,Rodent,Control
+21474,4944,10,26,1981,4,DS,M,49.0,78.0,Dipodomys,spectabilis,Rodent,Control
+21475,4950,10,26,1981,4,DS,M,54.0,145.0,Dipodomys,spectabilis,Rodent,Control
+21476,5028,11,23,1981,4,DS,M,52.0,104.0,Dipodomys,spectabilis,Rodent,Control
+21477,5064,11,23,1981,4,DS,M,55.0,144.0,Dipodomys,spectabilis,Rodent,Control
+21908,5015,11,23,1981,4,OL,M,22.0,41.0,Onychomys,leucogaster,Rodent,Control
+21956,4860,10,1,1981,4,RM,M,19.0,14.0,Reithrodontomys,megalotis,Rodent,Control
+22091,3691,1,11,1981,13,NL,F,29.0,118.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+22092,3816,1,31,1981,13,NL,F,30.0,135.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+22093,4935,10,25,1981,13,NL,M,35.0,177.0,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+22094,5069,11,23,1981,13,NL,M,,,Neotoma,albigula,Rodent,Short-term Krat Exclosure
+22210,3688,1,11,1981,13,DM,M,36.0,49.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22211,3851,1,31,1981,13,DM,M,38.0,55.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22212,3910,3,8,1981,13,DM,M,,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22213,3928,3,8,1981,13,DM,M,39.0,56.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22214,4196,4,6,1981,13,DM,M,,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22215,4206,4,6,1981,13,DM,F,,43.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22216,4223,4,6,1981,13,DM,M,,45.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22217,4226,4,6,1981,13,DM,M,,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22218,4236,4,6,1981,13,DM,M,,51.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22219,4241,4,6,1981,13,DM,M,,54.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22220,4245,4,6,1981,13,DM,F,,35.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22221,4256,4,6,1981,13,DM,M,,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22222,4259,4,6,1981,13,DM,M,,48.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22223,4266,4,6,1981,13,DM,F,,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22224,4269,4,6,1981,13,DM,M,,44.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22225,4275,4,6,1981,13,DM,F,,34.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22226,4298,4,6,1981,13,DM,F,,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22227,4328,4,6,1981,13,DM,F,,41.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22228,4349,4,6,1981,13,DM,M,,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22229,4362,5,3,1981,13,DM,M,37.0,53.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22230,4396,5,3,1981,13,DM,F,35.0,,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22231,4408,5,3,1981,13,DM,F,35.0,45.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22232,4414,5,4,1981,13,DM,M,35.0,46.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22233,4417,5,4,1981,13,DM,M,37.0,50.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22234,4419,5,4,1981,13,DM,M,36.0,45.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22235,4422,5,4,1981,13,DM,F,35.0,41.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22236,4426,5,4,1981,13,DM,M,36.0,48.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22237,4430,5,4,1981,13,DM,F,34.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22238,4438,5,4,1981,13,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22239,4441,5,4,1981,13,DM,F,36.0,39.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22240,4564,6,5,1981,13,DM,M,37.0,53.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22241,4593,6,5,1981,13,DM,F,37.0,47.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22242,4607,7,7,1981,13,DM,M,37.0,52.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22243,4639,7,7,1981,13,DM,F,35.0,40.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22244,4721,7,31,1981,13,DM,M,39.0,53.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22245,4741,7,31,1981,13,DM,F,36.0,54.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22246,4777,8,30,1981,13,DM,M,35.0,21.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22247,4841,9,30,1981,13,DM,M,39.0,58.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22248,4853,9,30,1981,13,DM,M,36.0,38.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22249,4922,10,25,1981,13,DM,F,39.0,54.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22250,4927,10,25,1981,13,DM,M,38.0,39.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22251,5016,11,23,1981,13,DM,M,39.0,55.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22252,5067,11,23,1981,13,DM,M,39.0,51.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22253,5072,11,23,1981,13,DM,M,37.0,42.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22254,5124,12,31,1981,13,DM,M,38.0,54.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22255,5157,12,31,1981,13,DM,M,36.0,45.0,Dipodomys,merriami,Rodent,Short-term Krat Exclosure
+22503,5053,11,23,1981,13,PF,F,17.0,8.0,Perognathus,flavus,Rodent,Short-term Krat Exclosure
+22504,5132,12,31,1981,13,PF,F,15.0,7.0,Perognathus,flavus,Rodent,Short-term Krat Exclosure
+22588,4917,10,25,1981,13,PE,M,20.0,19.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+22589,5148,12,31,1981,13,PE,M,19.0,21.0,Peromyscus,eremicus,Rodent,Short-term Krat Exclosure
+22683,3728,1,11,1981,13,DS,F,47.0,120.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22684,3850,1,31,1981,13,DS,F,48.0,133.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22685,3856,1,31,1981,13,DS,F,45.0,47.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22686,3929,3,8,1981,13,DS,F,48.0,120.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22687,3933,3,8,1981,13,DS,F,47.0,66.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22688,3940,3,8,1981,13,DS,M,47.0,72.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22689,4211,4,6,1981,13,DS,F,,138.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22690,4262,4,6,1981,13,DS,M,,123.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22691,4292,4,6,1981,13,DS,F,,131.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22692,4295,4,6,1981,13,DS,M,,130.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22693,4301,4,6,1981,13,DS,F,,133.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22694,4305,4,6,1981,13,DS,M,,131.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22695,4323,4,6,1981,13,DS,M,,81.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22696,4331,4,6,1981,13,DS,F,,136.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22697,4336,4,6,1981,13,DS,M,,119.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22698,4339,4,6,1981,13,DS,M,,78.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22699,4345,4,6,1981,13,DS,M,,137.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22700,4352,4,6,1981,13,DS,F,,110.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22701,4391,5,3,1981,13,DS,F,50.0,151.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22702,4415,5,4,1981,13,DS,M,48.0,135.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22703,4432,5,4,1981,13,DS,M,48.0,119.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22704,4588,6,5,1981,13,DS,F,52.0,132.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22705,4600,6,28,1981,13,DS,M,,,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22706,4635,7,7,1981,13,DS,M,47.0,109.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22707,4781,8,30,1981,13,DS,M,51.0,141.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22708,4843,9,30,1981,13,DS,M,49.0,140.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22709,4934,10,25,1981,13,DS,M,51.0,138.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22710,5075,11,23,1981,13,DS,M,47.0,139.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22711,5154,12,31,1981,13,DS,F,51.0,153.0,Dipodomys,spectabilis,Rodent,Short-term Krat Exclosure
+22897,3701,1,11,1981,13,OT,M,22.0,24.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+22898,3907,3,8,1981,13,OT,M,22.0,29.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+22899,4423,5,4,1981,13,OT,F,21.0,26.0,Onychomys,torridus,Rodent,Short-term Krat Exclosure
+23035,3833,1,31,1981,13,DO,F,36.0,59.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+23036,4277,4,6,1981,13,DO,M,,46.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+23037,4289,4,6,1981,13,DO,F,,50.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+23038,4428,5,4,1981,13,DO,F,36.0,60.0,Dipodomys,ordii,Rodent,Short-term Krat Exclosure
+23116,3726,1,11,1981,13,OL,F,17.0,36.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+23117,3810,1,31,1981,13,OL,F,21.0,42.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+23118,3815,1,31,1981,13,OL,F,21.0,35.0,Onychomys,leucogaster,Rodent,Short-term Krat Exclosure
+23656,3703,1,11,1981,19,PF,M,15.0,9.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+23657,3827,1,31,1981,19,PF,M,15.0,9.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+23658,3925,3,8,1981,19,PF,M,16.0,9.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+23659,4016,4,5,1981,19,PF,M,,9.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+23660,4403,5,3,1981,19,PF,M,,9.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+23661,5081,12,30,1981,19,PF,M,18.0,8.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+23804,4878,10,24,1981,19,PE,M,21.0,20.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+23805,5096,12,30,1981,19,PE,F,22.0,20.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+23806,5105,12,30,1981,19,PE,M,22.0,23.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+24062,3847,1,31,1981,19,OT,M,20.0,28.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+24063,4625,7,7,1981,19,OT,M,20.0,25.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+24153,3698,1,11,1981,19,RM,M,16.0,11.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24154,3709,1,11,1981,19,RM,F,16.0,12.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24155,3838,1,31,1981,19,RM,F,16.0,,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24156,3841,1,31,1981,19,RM,M,16.0,9.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24157,3908,3,8,1981,19,RM,M,17.0,10.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24158,4585,6,5,1981,19,RM,M,16.0,12.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24159,5006,11,22,1981,19,RM,M,17.0,10.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24160,5089,12,30,1981,19,RM,M,18.0,9.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24161,5095,12,30,1981,19,RM,F,19.0,14.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+24335,4596,6,5,1981,19,SA,,,,Sylvilagus,audubonii,Rabbit,Long-term Krat Exclosure
+24345,4099,4,5,1981,19,PM,F,20.0,23.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24346,4375,5,3,1981,19,PM,F,20.0,25.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24347,4641,7,7,1981,19,PM,M,22.0,23.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24348,4893,10,24,1981,19,PM,M,19.0,18.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24349,4992,11,22,1981,19,PM,M,21.0,24.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24350,5083,12,30,1981,19,PM,F,21.0,10.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24351,5106,12,30,1981,19,PM,F,22.0,9.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24352,5111,12,30,1981,19,PM,M,23.0,22.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+24466,4606,7,7,1981,19,AB,,,,Amphispiza,bilineata,Bird,Long-term Krat Exclosure
+24778,3693,1,11,1981,24,NL,F,32.0,192.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24779,4373,5,3,1981,24,NL,F,33.0,251.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24780,4411,5,3,1981,24,NL,F,33.0,208.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24781,4568,6,5,1981,24,NL,M,33.0,136.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24782,4618,7,7,1981,24,NL,M,34.0,137.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24783,4756,8,30,1981,24,NL,M,,193.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24784,4759,8,30,1981,24,NL,F,33.0,162.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24785,5117,12,31,1981,24,NL,F,33.0,134.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24786,5127,12,31,1981,24,NL,M,34.0,157.0,Neotoma,albigula,Rodent,Rodent Exclosure
+24907,3725,1,11,1981,24,DM,F,36.0,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24908,3853,1,31,1981,24,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24909,3920,3,8,1981,24,DM,F,35.0,54.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24910,4227,4,6,1981,24,DM,M,,42.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24911,4247,4,6,1981,24,DM,F,,43.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24912,4310,4,6,1981,24,DM,F,,44.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24913,4316,4,6,1981,24,DM,M,,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24914,4333,4,6,1981,24,DM,F,,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24915,4338,4,6,1981,24,DM,M,,42.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24916,4340,4,6,1981,24,DM,M,,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24917,4346,4,6,1981,24,DM,M,,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24918,4380,5,3,1981,24,DM,F,36.0,31.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24919,4388,5,3,1981,24,DM,M,36.0,41.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24920,4410,5,3,1981,24,DM,M,36.0,43.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24921,4562,6,5,1981,24,DM,F,36.0,40.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24922,4570,6,5,1981,24,DM,F,34.0,33.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24923,4598,6,5,1981,24,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24924,4611,7,7,1981,24,DM,M,37.0,44.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24925,4615,7,7,1981,24,DM,F,36.0,44.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24926,4644,7,7,1981,24,DM,M,36.0,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24927,4723,7,31,1981,24,DM,F,36.0,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24928,4740,7,31,1981,24,DM,M,36.0,44.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24929,4769,8,30,1981,24,DM,M,33.0,19.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24930,4779,8,30,1981,24,DM,M,37.0,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24931,4812,9,29,1981,24,DM,F,38.0,44.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24932,4814,9,29,1981,24,DM,M,38.0,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24933,4820,9,29,1981,24,DM,M,37.0,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24934,4877,10,24,1981,24,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24935,4880,10,24,1981,24,DM,F,36.0,41.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24936,4963,11,22,1981,24,DM,F,35.0,23.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24937,4973,11,22,1981,24,DM,F,36.0,46.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24938,5004,11,22,1981,24,DM,M,36.0,48.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24939,5122,12,31,1981,24,DM,F,36.0,40.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24940,5135,12,31,1981,24,DM,M,37.0,45.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+24941,5138,12,31,1981,24,DM,M,33.0,25.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+25156,3813,1,31,1981,24,PE,F,19.0,25.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25157,4324,4,6,1981,24,PE,M,,22.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25158,4360,5,3,1981,24,PE,M,20.0,21.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25159,4363,5,3,1981,24,PE,F,20.0,18.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25160,4557,6,5,1981,24,PE,F,20.0,23.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25161,4897,10,24,1981,24,PE,M,21.0,17.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25162,4959,11,22,1981,24,PE,M,22.0,20.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25163,5130,12,31,1981,24,PE,F,22.0,23.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25164,5133,12,31,1981,24,PE,F,21.0,23.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+25387,4809,9,29,1981,24,OT,M,21.0,23.0,Onychomys,torridus,Rodent,Rodent Exclosure
+25421,3694,1,11,1981,24,DO,F,34.0,49.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25422,3811,1,31,1981,24,DO,F,37.0,41.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25423,4192,4,6,1981,24,DO,F,,45.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25424,4215,4,6,1981,24,DO,F,,36.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25425,4220,4,6,1981,24,DO,M,,50.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25426,4224,4,6,1981,24,DO,F,,53.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25427,4232,4,6,1981,24,DO,M,,45.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25428,4261,4,6,1981,24,DO,M,,49.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25429,4610,7,7,1981,24,DO,F,34.0,41.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25430,4640,7,7,1981,24,DO,F,37.0,,Dipodomys,ordii,Rodent,Rodent Exclosure
+25431,4750,7,31,1981,24,DO,F,36.0,51.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25432,4774,8,30,1981,24,DO,F,37.0,54.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25433,4810,9,29,1981,24,DO,M,34.0,56.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25434,4815,9,29,1981,24,DO,F,37.0,57.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25435,4983,11,22,1981,24,DO,F,37.0,,Dipodomys,ordii,Rodent,Rodent Exclosure
+25436,5129,12,31,1981,24,DO,M,36.0,38.0,Dipodomys,ordii,Rodent,Rodent Exclosure
+25493,4748,7,31,1981,24,OL,F,20.0,22.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+25504,5008,11,22,1981,24,RM,F,17.0,11.0,Reithrodontomys,megalotis,Rodent,Rodent Exclosure
+25663,4254,4,6,1981,24,PM,M,,19.0,Peromyscus,maniculatus,Rodent,Rodent Exclosure
+25798,3777,1,12,1981,1,NL,M,35.0,173.0,Neotoma,albigula,Rodent,Spectab exclosure
+25799,3887,2,1,1981,1,NL,M,34.0,174.0,Neotoma,albigula,Rodent,Spectab exclosure
+25800,3997,3,9,1981,1,NL,M,34.0,177.0,Neotoma,albigula,Rodent,Spectab exclosure
+25801,4624,7,7,1981,1,NL,M,32.0,125.0,Neotoma,albigula,Rodent,Spectab exclosure
+25802,4949,10,26,1981,1,NL,M,34.0,187.0,Neotoma,albigula,Rodent,Spectab exclosure
+25803,5041,11,23,1981,1,NL,M,33.0,194.0,Neotoma,albigula,Rodent,Spectab exclosure
+25908,3736,1,12,1981,1,DM,M,36.0,51.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25909,3737,1,12,1981,1,DM,F,35.0,45.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25910,3950,3,9,1981,1,DM,M,38.0,49.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25911,3955,3,9,1981,1,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25912,3957,3,9,1981,1,DM,F,36.0,45.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25913,4013,4,5,1981,1,DM,M,,52.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25914,4019,4,5,1981,1,DM,M,,50.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25915,4030,4,5,1981,1,DM,M,,52.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25916,4037,4,5,1981,1,DM,F,,45.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25917,4039,4,5,1981,1,DM,F,,46.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25918,4081,4,5,1981,1,DM,M,,50.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25919,4160,4,5,1981,1,DM,M,,42.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25920,4166,4,5,1981,1,DM,F,,43.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25921,4171,4,5,1981,1,DM,M,,45.0,Dipodomys,merriami,Rodent,Spectab exclosure
+25922,4601,7,7,1981,1,DM,M,37.0,46.0,Dipodomys,merriami,Rodent,Spectab exclosure
+26463,4749,7,31,1981,1,PF,F,15.0,6.0,Perognathus,flavus,Rodent,Spectab exclosure
+26574,3784,1,12,1981,1,DS,M,57.0,156.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26575,3802,1,12,1981,1,DS,M,52.0,153.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26576,3884,2,1,1981,1,DS,M,53.0,153.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26577,3896,2,1,1981,1,DS,M,52.0,153.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26578,3993,3,9,1981,1,DS,M,53.0,151.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26579,4001,3,9,1981,1,DS,M,53.0,150.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26580,4074,4,5,1981,1,DS,F,,131.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26581,4086,4,5,1981,1,DS,M,,155.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26582,4088,4,5,1981,1,DS,M,,141.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26583,4095,4,5,1981,1,DS,M,,82.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26584,4112,4,5,1981,1,DS,M,,147.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26585,4131,4,5,1981,1,DS,M,,101.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26586,4141,4,5,1981,1,DS,M,,127.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26587,4152,4,5,1981,1,DS,F,,135.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26588,4467,5,4,1981,1,DS,M,52.0,148.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26589,4478,5,4,1981,1,DS,M,53.0,152.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26590,4516,6,4,1981,1,DS,M,53.0,148.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26591,4529,6,4,1981,1,DS,M,53.0,159.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26592,4619,7,7,1981,1,DS,M,52.0,144.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26593,4623,7,7,1981,1,DS,M,52.0,146.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26594,4955,10,26,1981,1,DS,M,53.0,165.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26595,5046,11,23,1981,1,DS,M,52.0,161.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+26743,4057,4,5,1981,1,PP,F,,14.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26744,4513,6,4,1981,1,PP,F,21.0,10.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26745,4525,6,4,1981,1,PP,M,21.0,11.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26746,4528,6,4,1981,1,PP,F,22.0,15.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26747,4738,7,31,1981,1,PP,F,22.0,10.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26748,4739,7,31,1981,1,PP,F,22.0,11.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26749,4744,7,31,1981,1,PP,M,22.0,11.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26750,4780,8,30,1981,1,PP,M,23.0,16.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26751,4945,10,26,1981,1,PP,M,24.0,14.0,Chaetodipus,penicillatus,Rodent,Spectab exclosure
+26960,3956,3,9,1981,1,OT,M,,25.0,Onychomys,torridus,Rodent,Spectab exclosure
+27066,3735,1,12,1981,1,DO,M,32.0,39.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27067,3794,1,12,1981,1,DO,M,36.0,49.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27068,3879,2,1,1981,1,DO,M,36.0,52.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27069,3890,2,1,1981,1,DO,F,37.0,59.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27070,3951,3,9,1981,1,DO,F,36.0,50.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27071,3963,3,9,1981,1,DO,M,38.0,37.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27072,4023,4,5,1981,1,DO,F,39.0,47.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27073,4044,4,5,1981,1,DO,F,,55.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27074,4109,4,5,1981,1,DO,M,,49.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27075,4186,4,5,1981,1,DO,M,,42.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27076,4454,5,4,1981,1,DO,M,37.0,52.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27077,4470,5,4,1981,1,DO,F,36.0,55.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27078,4501,6,4,1981,1,DO,F,37.0,51.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27079,4519,6,4,1981,1,DO,M,37.0,52.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27080,4521,6,4,1981,1,DO,M,35.0,25.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27081,4550,6,4,1981,1,DO,M,34.0,,Dipodomys,ordii,Rodent,Spectab exclosure
+27082,4629,7,7,1981,1,DO,F,36.0,53.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27083,4632,7,7,1981,1,DO,M,36.0,35.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27084,4730,7,31,1981,1,DO,F,36.0,61.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27085,4763,8,30,1981,1,DO,F,37.0,59.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27086,4862,10,1,1981,1,DO,F,37.0,62.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27087,4943,10,26,1981,1,DO,F,38.0,59.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27088,5060,11,23,1981,1,DO,F,37.0,70.0,Dipodomys,ordii,Rodent,Spectab exclosure
+27557,3734,1,12,1981,1,OL,F,20.0,33.0,Onychomys,leucogaster,Rodent,Spectab exclosure
+27558,4051,4,5,1981,1,OL,F,,44.0,Onychomys,leucogaster,Rodent,Spectab exclosure
+27783,4798,8,31,1981,8,NL,M,31.0,173.0,Neotoma,albigula,Rodent,Control
+27814,3756,1,12,1981,8,DM,M,35.0,49.0,Dipodomys,merriami,Rodent,Control
+27815,4418,5,4,1981,8,DM,M,36.0,46.0,Dipodomys,merriami,Rodent,Control
+28372,3921,3,8,1981,8,PF,M,,6.0,Perognathus,flavus,Rodent,Control
+28373,4661,7,8,1981,8,PF,M,15.0,7.0,Perognathus,flavus,Rodent,Control
+28374,4942,10,26,1981,8,PF,F,15.0,9.0,Perognathus,flavus,Rodent,Control
+28375,5058,11,23,1981,8,PF,M,16.0,7.0,Perognathus,flavus,Rodent,Control
+28416,4856,10,1,1981,8,PE,M,22.0,20.0,Peromyscus,eremicus,Rodent,Control
+28486,3689,1,11,1981,8,DS,M,50.0,140.0,Dipodomys,spectabilis,Rodent,Control
+28487,3727,1,11,1981,8,DS,M,49.0,139.0,Dipodomys,spectabilis,Rodent,Control
+28488,3757,1,12,1981,8,DS,M,50.0,148.0,Dipodomys,spectabilis,Rodent,Control
+28489,3864,2,1,1981,8,DS,M,50.0,135.0,Dipodomys,spectabilis,Rodent,Control
+28490,3872,2,1,1981,8,DS,M,50.0,140.0,Dipodomys,spectabilis,Rodent,Control
+28491,3917,3,8,1981,8,DS,M,53.0,141.0,Dipodomys,spectabilis,Rodent,Control
+28492,3939,3,8,1981,8,DS,M,53.0,136.0,Dipodomys,spectabilis,Rodent,Control
+28493,4201,4,6,1981,8,DS,F,,119.0,Dipodomys,spectabilis,Rodent,Control
+28494,4218,4,6,1981,8,DS,M,,129.0,Dipodomys,spectabilis,Rodent,Control
+28495,4273,4,6,1981,8,DS,F,,88.0,Dipodomys,spectabilis,Rodent,Control
+28496,4308,4,6,1981,8,DS,M,,124.0,Dipodomys,spectabilis,Rodent,Control
+28497,4350,4,6,1981,8,DS,M,,84.0,Dipodomys,spectabilis,Rodent,Control
+28498,4429,5,4,1981,8,DS,F,50.0,120.0,Dipodomys,spectabilis,Rodent,Control
+28499,4437,5,4,1981,8,DS,M,49.0,101.0,Dipodomys,spectabilis,Rodent,Control
+28500,4459,5,4,1981,8,DS,M,49.0,135.0,Dipodomys,spectabilis,Rodent,Control
+28501,4472,5,4,1981,8,DS,M,50.0,132.0,Dipodomys,spectabilis,Rodent,Control
+28502,4495,6,4,1981,8,DS,M,54.0,133.0,Dipodomys,spectabilis,Rodent,Control
+28503,4523,6,4,1981,8,DS,M,55.0,128.0,Dipodomys,spectabilis,Rodent,Control
+28504,4655,7,8,1981,8,DS,M,52.0,135.0,Dipodomys,spectabilis,Rodent,Control
+28505,4671,7,8,1981,8,DS,M,52.0,133.0,Dipodomys,spectabilis,Rodent,Control
+28506,4864,10,1,1981,8,DS,M,54.0,152.0,Dipodomys,spectabilis,Rodent,Control
+28507,5052,11,23,1981,8,DS,M,53.0,142.0,Dipodomys,spectabilis,Rodent,Control
+28508,5078,11,23,1981,8,DS,M,52.0,137.0,Dipodomys,spectabilis,Rodent,Control
+28509,5140,12,31,1981,8,DS,M,49.0,135.0,Dipodomys,spectabilis,Rodent,Control
+28510,5144,12,31,1981,8,DS,M,53.0,140.0,Dipodomys,spectabilis,Rodent,Control
+28862,4231,4,6,1981,8,OT,M,,24.0,Onychomys,torridus,Rodent,Control
+28986,3696,1,11,1981,8,DO,F,35.0,57.0,Dipodomys,ordii,Rodent,Control
+28987,3711,1,11,1981,8,DO,F,34.0,57.0,Dipodomys,ordii,Rodent,Control
+28988,3758,1,12,1981,8,DO,M,35.0,57.0,Dipodomys,ordii,Rodent,Control
+28989,3881,2,1,1981,8,DO,F,36.0,57.0,Dipodomys,ordii,Rodent,Control
+28990,3895,2,1,1981,8,DO,F,35.0,57.0,Dipodomys,ordii,Rodent,Control
+28991,3919,3,8,1981,8,DO,F,34.0,28.0,Dipodomys,ordii,Rodent,Control
+28992,3923,3,8,1981,8,DO,F,37.0,,Dipodomys,ordii,Rodent,Control
+28993,4210,4,6,1981,8,DO,F,,52.0,Dipodomys,ordii,Rodent,Control
+28994,4213,4,6,1981,8,DO,M,,54.0,Dipodomys,ordii,Rodent,Control
+28995,4239,4,6,1981,8,DO,M,,32.0,Dipodomys,ordii,Rodent,Control
+28996,4264,4,6,1981,8,DO,F,,58.0,Dipodomys,ordii,Rodent,Control
+28997,4279,4,6,1981,8,DO,M,,48.0,Dipodomys,ordii,Rodent,Control
+28998,4288,4,6,1981,8,DO,M,,,Dipodomys,ordii,Rodent,Control
+28999,4297,4,6,1981,8,DO,F,,55.0,Dipodomys,ordii,Rodent,Control
+29000,4319,4,6,1981,8,DO,F,,50.0,Dipodomys,ordii,Rodent,Control
+29001,4322,4,6,1981,8,DO,F,,49.0,Dipodomys,ordii,Rodent,Control
+29002,4330,4,6,1981,8,DO,F,,48.0,Dipodomys,ordii,Rodent,Control
+29003,4416,5,4,1981,8,DO,F,35.0,58.0,Dipodomys,ordii,Rodent,Control
+29004,4431,5,4,1981,8,DO,F,34.0,56.0,Dipodomys,ordii,Rodent,Control
+29005,4464,5,4,1981,8,DO,F,33.0,21.0,Dipodomys,ordii,Rodent,Control
+29006,4469,5,4,1981,8,DO,F,38.0,63.0,Dipodomys,ordii,Rodent,Control
+29007,4515,6,4,1981,8,DO,F,37.0,33.0,Dipodomys,ordii,Rodent,Control
+29008,4666,7,8,1981,8,DO,M,36.0,48.0,Dipodomys,ordii,Rodent,Control
+29009,4678,7,8,1981,8,DO,F,36.0,51.0,Dipodomys,ordii,Rodent,Control
+29010,4710,7,30,1981,8,DO,F,38.0,57.0,Dipodomys,ordii,Rodent,Control
+29011,4791,8,31,1981,8,DO,M,37.0,51.0,Dipodomys,ordii,Rodent,Control
+29012,5034,11,23,1981,8,DO,M,36.0,52.0,Dipodomys,ordii,Rodent,Control
+29013,5151,12,31,1981,8,DO,M,34.0,49.0,Dipodomys,ordii,Rodent,Control
+29442,4235,4,6,1981,8,SS,,,,Spermophilus,spilosoma,Rodent,Control
+29472,4440,5,4,1981,8,OL,M,21.0,30.0,Onychomys,leucogaster,Rodent,Control
+29473,4709,7,30,1981,8,OL,F,19.0,31.0,Onychomys,leucogaster,Rodent,Control
+29664,4803,8,31,1981,9,NL,M,31.0,156.0,Neotoma,albigula,Rodent,Spectab exclosure
+29756,3761,1,12,1981,9,DM,F,35.0,47.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29757,3762,1,12,1981,9,DM,F,35.0,40.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29758,3763,1,12,1981,9,DM,M,37.0,48.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29759,3795,1,12,1981,9,DM,F,36.0,33.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29760,3870,2,1,1981,9,DM,F,37.0,41.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29761,4014,4,5,1981,9,DM,F,,44.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29762,4069,4,5,1981,9,DM,M,,48.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29763,4097,4,5,1981,9,DM,F,,44.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29764,4176,4,5,1981,9,DM,M,,46.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29765,4178,4,5,1981,9,DM,F,,41.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29766,4434,5,4,1981,9,DM,F,36.0,44.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29767,4487,5,4,1981,9,DM,M,37.0,46.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29768,4684,7,8,1981,9,DM,M,37.0,47.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29769,4951,10,26,1981,9,DM,M,37.0,47.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29770,4954,10,26,1981,9,DM,M,38.0,49.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29771,5045,11,23,1981,9,DM,F,36.0,47.0,Dipodomys,merriami,Rodent,Spectab exclosure
+29772,5141,12,31,1981,9,DM,F,33.0,34.0,Dipodomys,merriami,Rodent,Spectab exclosure
+30670,4460,5,4,1981,9,PF,M,14.0,6.0,Perognathus,flavus,Rodent,Spectab exclosure
+30671,4662,7,8,1981,9,PF,F,15.0,8.0,Perognathus,flavus,Rodent,Spectab exclosure
+30844,3759,1,12,1981,9,DS,M,46.0,124.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30845,3801,1,12,1981,9,DS,F,51.0,142.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30846,3865,2,1,1981,9,DS,M,52.0,147.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30847,3891,2,1,1981,9,DS,M,50.0,136.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30848,3892,2,1,1981,9,DS,M,48.0,120.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30849,3904,2,1,1981,9,DS,F,50.0,130.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30850,3981,3,9,1981,9,DS,F,51.0,114.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30851,3996,3,9,1981,9,DS,F,,79.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30852,3999,3,9,1981,9,DS,F,48.0,137.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30853,4009,3,9,1981,9,DS,M,53.0,137.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30854,4025,4,5,1981,9,DS,F,,115.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30855,4076,4,5,1981,9,DS,M,,138.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30856,4079,4,5,1981,9,DS,F,47.0,104.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30857,4094,4,5,1981,9,DS,F,,98.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30858,4114,4,5,1981,9,DS,M,,122.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30859,4117,4,5,1981,9,DS,M,46.0,69.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30860,4119,4,5,1981,9,DS,M,,89.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30861,4123,4,5,1981,9,DS,M,,137.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30862,4134,4,5,1981,9,DS,M,,128.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30863,4142,4,5,1981,9,DS,F,,125.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30864,4162,4,5,1981,9,DS,M,50.0,98.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30865,4187,4,5,1981,9,DS,M,,135.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30866,4444,5,4,1981,9,DS,M,49.0,144.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30867,4471,5,4,1981,9,DS,F,50.0,119.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30868,4475,5,4,1981,9,DS,M,51.0,137.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30869,4480,5,4,1981,9,DS,F,48.0,71.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30870,4481,5,4,1981,9,DS,F,48.0,130.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30871,4524,6,4,1981,9,DS,F,50.0,90.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30872,4530,6,4,1981,9,DS,F,49.0,,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30873,4535,6,4,1981,9,DS,M,51.0,138.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30874,4545,6,4,1981,9,DS,F,52.0,128.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30875,4656,7,8,1981,9,DS,M,,65.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30876,4669,7,8,1981,9,DS,F,52.0,131.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30877,4675,7,8,1981,9,DS,F,49.0,122.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30878,4680,7,8,1981,9,DS,M,50.0,85.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30879,4683,7,8,1981,9,DS,F,47.0,93.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30880,4698,7,30,1981,9,DS,M,51.0,73.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30881,4711,7,30,1981,9,DS,F,48.0,100.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30882,4861,10,1,1981,9,DS,F,52.0,125.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30883,4865,10,1,1981,9,DS,F,50.0,137.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30884,4946,10,26,1981,9,DS,F,52.0,125.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30885,4957,10,26,1981,9,DS,F,51.0,136.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30886,5042,11,23,1981,9,DS,F,53.0,139.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+30887,5143,12,31,1981,9,DS,F,50.0,140.0,Dipodomys,spectabilis,Rodent,Spectab exclosure
+31117,4041,4,5,1981,9,OT,M,,17.0,Onychomys,torridus,Rodent,Spectab exclosure
+31118,4059,4,5,1981,9,OT,M,,23.0,Onychomys,torridus,Rodent,Spectab exclosure
+31208,3760,1,12,1981,9,DO,F,36.0,59.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31209,3776,1,12,1981,9,DO,M,37.0,37.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31210,3789,1,12,1981,9,DO,M,36.0,,Dipodomys,ordii,Rodent,Spectab exclosure
+31211,3868,2,1,1981,9,DO,M,35.0,52.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31212,3873,2,1,1981,9,DO,M,34.0,51.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31213,3874,2,1,1981,9,DO,M,37.0,44.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31214,3876,2,1,1981,9,DO,F,35.0,55.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31215,3888,2,1,1981,9,DO,F,36.0,41.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31216,4066,4,5,1981,9,DO,F,,48.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31217,4082,4,5,1981,9,DO,F,,58.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31218,4087,4,5,1981,9,DO,M,,49.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31219,4101,4,5,1981,9,DO,F,,47.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31220,4104,4,5,1981,9,DO,M,,49.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31221,4461,5,4,1981,9,DO,M,34.0,48.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31222,4507,6,4,1981,9,DO,M,36.0,47.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31223,4947,10,26,1981,9,DO,F,38.0,43.0,Dipodomys,ordii,Rodent,Spectab exclosure
+31402,4053,4,5,1981,9,SS,,,,Spermophilus,spilosoma,Rodent,Spectab exclosure
+31444,3988,3,9,1981,9,OL,F,19.0,33.0,Onychomys,leucogaster,Rodent,Spectab exclosure
+31445,4108,4,5,1981,9,OL,F,,43.0,Onychomys,leucogaster,Rodent,Spectab exclosure
+31593,4831,9,29,1981,21,NL,F,32.0,165.0,Neotoma,albigula,Rodent,Long-term Krat Exclosure
+31594,4902,10,24,1981,21,NL,F,34.0,165.0,Neotoma,albigula,Rodent,Long-term Krat Exclosure
+31670,4357,5,3,1981,21,PF,M,14.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+31671,4968,11,22,1981,21,PF,M,16.0,8.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+31672,5087,12,30,1981,21,PF,F,15.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+31673,5099,12,30,1981,21,PF,M,16.0,8.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+31674,5110,12,30,1981,21,PF,F,17.0,7.0,Perognathus,flavus,Rodent,Long-term Krat Exclosure
+31819,4872,10,24,1981,21,PE,M,20.0,19.0,Peromyscus,eremicus,Rodent,Long-term Krat Exclosure
+31824,4599,6,8,1981,21,DS,,,,Dipodomys,spectabilis,Rodent,Long-term Krat Exclosure
+31995,4830,9,29,1981,21,OT,M,21.0,20.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+31996,4960,11,22,1981,21,OT,F,22.0,35.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+31997,4972,11,22,1981,21,OT,M,21.0,24.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+31998,4979,11,22,1981,21,OT,M,21.0,27.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+31999,5002,11,22,1981,21,OT,F,22.0,22.0,Onychomys,torridus,Rodent,Long-term Krat Exclosure
+32064,4829,9,29,1981,21,OL,F,22.0,23.0,Onychomys,leucogaster,Rodent,Long-term Krat Exclosure
+32065,4987,11,22,1981,21,OL,F,22.0,26.0,Onychomys,leucogaster,Rodent,Long-term Krat Exclosure
+32080,5082,12,30,1981,21,RM,F,17.0,10.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+32081,5094,12,30,1981,21,RM,F,17.0,11.0,Reithrodontomys,megalotis,Rodent,Long-term Krat Exclosure
+32277,3944,3,8,1981,21,PM,M,21.0,16.0,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+32278,4303,4,6,1981,21,PM,M,,,Peromyscus,maniculatus,Rodent,Long-term Krat Exclosure
+32736,3697,1,11,1981,10,DM,M,36.0,49.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+32737,3730,1,11,1981,10,DM,M,36.0,43.0,Dipodomys,merriami,Rodent,Rodent Exclosure
+32739,3764,1,12,1981,10,PE,M,21.0,25.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+32740,5139,12,31,1981,10,PE,M,21.0,21.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+32749,3766,1,12,1981,10,DS,F,45.0,130.0,Dipodomys,spectabilis,Rodent,Rodent Exclosure
+32766,4400,5,3,1981,10,SS,,,,Spermophilus,spilosoma,Rodent,Rodent Exclosure
+32782,3718,1,11,1981,10,OL,M,20.0,37.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+32783,3846,1,31,1981,10,OL,M,21.0,41.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+32784,3909,3,8,1981,10,OL,F,22.0,36.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+32785,4358,5,3,1981,10,OL,M,21.0,41.0,Onychomys,leucogaster,Rodent,Rodent Exclosure
+32952,4355,5,3,1981,10,SA,,,,Sylvilagus,audubonii,Rabbit,Rodent Exclosure
+32953,4361,5,3,1981,10,SA,,,,Sylvilagus,audubonii,Rabbit,Rodent Exclosure
+32954,4406,5,3,1981,10,SA,,,,Sylvilagus,audubonii,Rabbit,Rodent Exclosure
+32962,3765,1,12,1981,10,PM,F,19.0,26.0,Peromyscus,maniculatus,Rodent,Rodent Exclosure
+33142,4920,10,25,1981,16,PE,,21.0,18.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
+33188,4928,10,25,1981,16,DS,F,51.0,158.0,Dipodomys,spectabilis,Rodent,Rodent Exclosure
+33298,4158,4,5,1981,16,SS,,,,Spermophilus,spilosoma,Rodent,Rodent Exclosure
+33726,3912,3,8,1981,23,RM,F,17.0,13.0,Reithrodontomys,megalotis,Rodent,Rodent Exclosure
+33727,4118,4,5,1981,23,RM,F,,17.0,Reithrodontomys,megalotis,Rodent,Rodent Exclosure
+33728,4379,5,3,1981,23,RM,F,17.0,15.0,Reithrodontomys,megalotis,Rodent,Rodent Exclosure
+33729,4531,6,4,1981,23,RM,F,18.0,12.0,Reithrodontomys,megalotis,Rodent,Rodent Exclosure
+33915,4509,6,4,1981,23,SA,,,,Sylvilagus,audubonii,Rabbit,Rodent Exclosure
+34002,4499,6,4,1981,23,AB,,,,Amphispiza,bilineata,Bird,Rodent Exclosure
+34003,4543,6,4,1981,23,AB,,,,Amphispiza,bilineata,Bird,Rodent Exclosure
+34032,3700,1,11,1981,23,CQ,,,,Callipepla,squamata,Bird,Rodent Exclosure
+34033,3717,1,11,1981,23,CQ,,,,Callipepla,squamata,Bird,Rodent Exclosure
+34034,3722,1,11,1981,23,CQ,,,,Callipepla,squamata,Bird,Rodent Exclosure
+34087,5115,12,31,1981,7,PE,F,22.0,24.0,Peromyscus,eremicus,Rodent,Rodent Exclosure
